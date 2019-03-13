@@ -1,0 +1,16 @@
+{
+     "xxx": { "buyFlower": false, "buyBook": false, "dummyPlace": false }
+   , "pfronteau": { "buyBook": false } 
+   , "mfourcade-e24qt": { "buyFlower": false }
+   , "chusson-e39ug": { "blockEmail": "marie2", "blockMessage": "", "blockName": "" }
+   , "pdurand-e13rg": { "buyFlower": false }
+   , "bbarcelo": {"dummyPlace": false }
+   , "flemoine-e72rz": { "buyFlower": false }
+   , "ttest96": {"dummyPlace": false }  
+   , "dplouzennec-e42te": { "buyFlower": false }
+   , "crouille-e65oq": { "buyFlower": false }
+   , "mbrossollet-e45yl": { "buyFlower": false }
+   , "ihlavac-e49ff" : { "buyFlower": false }
+   , "afrancis-e23zc" : { "buyFlower": false }
+   , "atschiember-e29xj" : { "blockEmail" : "bragazzialdo" }  
+}

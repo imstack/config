@@ -1,0 +1,591 @@
+{
+  
+  "blacklist": [
+        "christian.chevalier79@orange.fr"
+      , "manuel.roger@beeline.com"
+      , "sandrine.puchot@ortec.fr"
+      , "julienbouic@gmail.com"
+      , "m.saumade@laposte.net"
+      , "paulrossignol30@gmail.com"
+      , "vincent_bourganel@yahoo.fr"
+      , "marionds@laposte.net"
+      , "hds.s@free.fr"
+      , "rh.ecureuil@hotmail.fr"
+      , "sylvie.gousset@numericable.fr"
+      , "ricard.anne@gmail.com"
+      , "martine.gauch@gmail.com"
+      , "vincent@remond.wf"
+      , "a.ramirez@uniagro.fr"
+      , "a.ramirez@agros.fr"
+      , "cpi@bluewin.ch"
+      , "eve.telling@hotmail.fr"
+  ],
+  
+  "signup": {
+      "en": { 
+        "template_id": "afdbbf3f-baf7-44a2-a0e6-28f55f98c484"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "c8686e1d-ef5b-41d9-828f-72a0a3a74dfc"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "template_id": "190eedad-be0a-43eb-9a8c-2ebaa5926c5e"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+     "es": { 
+        "template_id": "87c0c4fd-d38d-489a-931d-59998fdf730a"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+  
+  "funel-end": {
+      "en": { "template_id": "" }
+    , "fr": { 
+        "template_id": "85d49368-68f9-420a-a76e-eefd4ac9e339"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+  
+  "delete-page": {
+      "en": { 
+        "template_id": "31970304-3d65-4595-8a38-54e5f3d77b47"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "a7702305-64ac-4059-9699-d24c037c2202"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "template_id": "0cabba2b-353d-47a6-9d0f-fb3aa65e2e75"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "template_id": "f282fd32-3f36-4896-8f3f-9fb5c251f347"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+  
+  "share-link": {
+      "en": { 
+        "template_id": "d9cacf14-c4a5-41df-ad5a-fc0cdd4782a9"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "35b2448f-7539-4e3f-bb6c-dbf6d9b816dc"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "template_id": "421f8e6f-2678-4c0f-bd81-b93bb6f3e6aa"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "template_id": "c59ddf3e-00f2-4b52-98d3-92aa53b2204f"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+
+  "share-admin": {
+      "en": { 
+        "template_id": "d5ef1920-4215-43b8-9873-f6fd0eb6a4ce"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "7a5b0b37-63ea-4cad-a180-ba092f7b96f0"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "template_id": "8112db76-84fc-457c-bd32-0fcd24db74ab"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "template_id": "43b579ff-21da-4e7e-a51c-cd117a090534"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+  
+  "send-memory": {
+      "en": { 
+        "template_id": "0f96cba4-c350-4ba1-9377-21c86b97a40b"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "ad20f3df-e9d8-4b36-864d-9a9796755fdb"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "template_id": "2665318f-dd0f-4c66-a1c2-9731488de280"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "template_id": "68cbf2a4-901d-48e5-9f34-7650e79d60ac"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+  
+  "receive-memory": {
+      "en": { 
+        "admin": true
+      , "template_id": "a95fd2bf-66b2-4ad0-b1b2-8c4b06431d43"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "admin": true
+      , "template_id": "22348cb6-e0f5-4f13-8877-8a9a1aacd651"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "admin": true
+      , "template_id": "5815df6a-cfa3-4508-b860-6773ff417e81"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "admin": true
+      , "template_id": "1d7fd69c-4ef2-40fa-b509-fea3bbdb1750"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+
+  "send-donation": {
+      "en": { 
+        "template_id": "ca12b7f8-0132-43c4-ad8a-76e6c33cefb2"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "a327efd1-c5b9-4ab8-87a3-1741ad93cf7c"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "template_id": "4532f702-eeb1-4c1a-984e-d90ad2e1bd99"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "template_id": "5a7db016-5029-450e-a245-538c3627c1a1"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+
+  "receive-donation": {
+      "en": { 
+        "admin": true
+      , "template_id": "05881016-bd0b-4916-9aa5-75ce369c9ec6"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "admin": true
+      , "template_id": "0dc3c65b-194c-4ded-9a9c-fbebd57c78e7"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "admin": true
+      , "template_id": "2a6163d6-b406-4b97-b132-5b89ad74509c"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "admin": true
+      , "template_id": "b3693c64-2140-4249-bbcc-724eab583be9"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+
+  "close-donation": {
+      "en": { 
+        "admin": true
+      , "bcc": ["contact@inmemori.com"]
+      , "template_id": "777c3b17-60e3-484b-9c40-54eae988973b"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "admin": true
+      , "bcc": ["contact@inmemori.com"]
+      , "template_id": "eea73ac1-4574-4444-8390-36b95161ada3"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "admin": true
+      , "template_id": "a789f344-017d-48a0-96de-8b05a84aa7f2"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "admin": true
+      , "template_id": "3ec92148-a5d4-447e-922c-3ac2f5a94e92"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+
+  "donation-reminder": {
+      "en": { "template_id": "" }
+    , "fr": { "template_id": "" }
+  },
+  
+  "thank-message": {
+      "en": { 
+        "template_id": "f0df3a85-0f6f-4974-8290-4ab370017837"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "f0df3a85-0f6f-4974-8290-4ab370017837"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "de": { 
+        "template_id": "95704809-6b2c-439e-89f1-e27bde25fbeb"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "es": { 
+        "template_id": "01b72444-8fd2-4323-9dce-302a2f9ba814"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+
+  "ambassador": {
+      "en": { 
+        "template_id": "94dc8eed-404b-49ef-926b-f28d438cbf5b"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": "2b3c7240-1969-41c3-8bfe-c9b53625db6b"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      }
+  },
+
+  "daily-notification-relatives": {
+      "en": { "template_id": "e7b164bc-fb6b-405b-8ba1-33d93b3dd067" }
+    , "fr": { "template_id": "41bc5586-9b71-40b8-bfa0-ebbe4a4f0def" }
+  },
+
+  "daily-notification-admin": {
+      "en": { "template_id": "ccc0e1cc-691b-4ac3-9d81-632677247c65" }
+    , "fr": { "template_id": "a7fb0efd-000c-47b2-a4c4-b7d84e832f4a" }
+  },
+  
+  "friends-memory": {
+      "en": { "template_id": "" }
+    , "fr": { "template_id": "" }
+  },
+  
+   "page-update": {
+      "en": { "template_id": "" }
+    , "fr": { "template_id": "" }
+  },
+
+
+
+  "buy-flower": {
+      "en": { "template_id": "" }
+    , "fr": { 
+        "template_id": "5f75ae1a-c940-40b8-ab56-55899d706b2e"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    },
+      "es": { 
+        "template_id": "bf7c4f71-943b-404a-9299-846733daab2d"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },      
+
+  "buy-book": {
+      "en": { "template_id": "" }
+    , "fr": { 
+        "template_id": "7b4a36ce-4ae4-4277-b4c5-c88ca8bc689d"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+    , "de": { 
+        "template_id": "7b4a36ce-4ae4-4277-b4c5-c88ca8bc689d"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+
+
+
+
+  
+  "team-alert-flower": {
+      "en": { "template_id": "" }
+    , "fr": { 
+        "bcc": ["constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "quentin.chesnais@inmemori.com"]
+      , "template_id": "f9bca5fc-633c-4e86-854f-d3adbfe5fff4" }
+    , "es": { 
+        "bcc": "contact@inmemori.com"
+      , "template_id": "fe96b7d1-d415-4d51-98bb-bb2001b79a81" }
+  },
+  
+  "team-alert-book": {
+      "en": { "template_id": "" }
+    , "fr": { 
+        "bcc": ["louis.grellet@inmemori.com", "constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "quentin.chesnais@inmemori.com"]
+      , "template_id": "5bf34e68-a0f9-4cd7-b4a6-089588dc29fa" }
+    , "de": { 
+        "bcc": ["louis.grellet@inmemori.com", "constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "quentin.chesnais@inmemori.com"]
+      , "template_id": "5bf34e68-a0f9-4cd7-b4a6-089588dc29fa" }
+  },
+
+
+
+
+
+  "flower-interflora-fr": {
+      "fr": { "template_id": "" }
+  },
+
+  "flower-gayosso": {
+      "es": { 
+        "bcc" : []
+      , "template_id": "fe96b7d1-d415-4d51-98bb-bb2001b79a81" }
+  },
+  
+  
+  
+  
+  
+  
+  
+  "signup-scf": {
+      "fr": {
+          "template_id": "d653fdd8-854a-4bc2-8cf2-06a0e490ed31"
+        , "from": { "email": "contact@inmemori.com", "name": "Service Catholique des Funérailles" }
+   }
+  },
+  
+  "signup-auxia": {
+     "fr": {
+        "template_id": "5efbb146-cded-49f6-8ac1-3c860567cccc"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }    
+  },
+  
+  "signup-lefigaro": {
+    "fr": {
+        "template_id": "767c5fda-8c5d-4634-81d1-0158962ff073"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+   }
+ },
+
+ "signup-previseo": {
+     "fr": { 
+         "template_id": "8780a8e1-c620-4d7d-bc8d-34dae8721d3b"
+       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "signup-manchester-funeral-home": {
+      "en": { 
+         "template_id": "64860342-703c-4196-882f-def7a42937a1"
+       , "from": { "email": "contact@inmemori.com", "name": "Manchester Funeral Home" }
+     }
+  },
+  
+  "signup-holmes-watkins-funeral-home": {
+      "en": { 
+         "template_id": "38a6ad35-ff8a-48ab-ac7b-47ef61652b24"
+       , "from": { "email": "contact@inmemori.com", "name": "Holmes Watkins Funeral Home" }
+     }
+  },
+  
+  "signup-potter-funeral-home": {
+      "en": { 
+         "template_id": "6af14af5-e5aa-4e96-b0ea-18308dc18599"
+       , "from": { "email": "contact@inmemori.com", "name": "Potter Funeral Home" }
+     }
+  },
+  
+  "signup-aviva": {
+      "fr": { 
+         "template_id": "b97bba63-336f-488a-b164-ecf7ed4ff293"
+       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "signup-allianz": {
+      "fr": { 
+         "template_id": "d232d011-32ad-4c62-b101-07b9f1f6fcf1"
+       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+   "signup-prevoir": {
+      "fr": { 
+         "template_id": "fe46f0e7-8814-4d5e-a2d4-59acfe4887f7"
+       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  
+   "signup-gayosso": {
+      "es": { 
+         "template_id": "da03702d-3abb-46f1-9b9c-774bb4621ce3"
+       , "from": { "email": "gayosso@inmemori.com", "name": "Gayosso" }
+     }
+  },
+  
+  
+  "signup-ahorn": {
+      "de": { 
+         "template_id": "d17b8137-fc8a-494e-9b24-c7f08a7447fd"
+       , "from": { "email": "contact@inmemori.com", "name": "Rolf" }
+     }
+  },
+  
+  
+  "signup-carbone14": {
+      "fr": { 
+         "template_id": "673725aa-2efe-4b88-85e0-6837bc09b1c3"
+       , "from": { "email": "contact@inmemori.com", "name": "Votre conseiller funéraire" }
+     }
+  },
+  
+  
+   "signup-lomaco": {
+      "fr": { 
+         "template_id": "673725aa-2efe-4b88-85e0-6837bc09b1c3"
+       , "from": { "email": "contact@inmemori.com", "name": "Votre conseiller funéraire" }
+     }
+  },
+  
+
+   "signup-addf": {
+      "fr": { 
+         "template_id": "673725aa-2efe-4b88-85e0-6837bc09b1c3"
+       , "from": { "email": "contact@inmemori.com", "name": "Votre conseiller funéraire" }
+     }
+  },
+  
+  
+  "signup-pfvaillant": {
+      "fr": { 
+         "template_id": "fa386c32-6ecf-44ce-8f99-49c72c058a5b"
+       , "from": { "email": "contact@inmemori.com", "name": "Votre conseiller funéraire" }
+     }
+  },
+  
+    
+  "signup-groupama": {
+      "fr": { 
+         "template_id": "6096b2c5-8f08-4967-9394-87aa42e86499"
+       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  
+  "cron-001": {
+      "fr": { 
+        "template_id": "f5e4853a-71db-4f57-87f8-03a3df56000a"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-002": {
+      "fr": { 
+        "template_id": "e96e415d-123c-4fea-a73e-10ec53decff4"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-003": {
+     "fr": { 
+       "template_id": "310ae8e3-44a1-4737-8d3e-8308cecb16b0"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+  
+  "cron-004": {
+     "fr": { 
+       "template_id": "2c02f4b6-b26f-4830-a031-d29a828c07f7"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+  
+  "cron-005": {
+     "fr": { 
+       "template_id": "1fa37d78-c08b-43f8-9cbe-d4ed8d476d94"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+  
+  "cron-006": {
+     "fr": { 
+       "template_id": "8c718aa0-695f-4158-85e6-56d23110016e"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+  
+  "cron-007": {
+     "fr": { 
+       "template_id": "58f52356-8b9c-440f-9710-212254c53996"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-008": {
+     "fr": { 
+       "template_id": "90496fff-daa8-4553-b78e-4689d64f5307"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+  
+  "cron-009": {
+     "en": { 
+       "template_id": "9d7f1bf7-c719-4002-874f-a71b86a0f436"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+  
+  "cron-010": {
+     "fr": { "template_id": "0ee93a4b-08b8-4f0e-afa1-23eb62dfb767" }
+  },
+  
+  "cron-011": {
+      "en": { 
+        "template_id": "6069005f-b6a8-437c-8f33-8b3cf558a78c"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-012": {
+      "en": { 
+        "template_id": "6af95d8b-93bc-422f-b02c-01f67c70480d"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-013": {
+      "en": { 
+        "template_id": "b276f581-fad1-4920-96b5-03bb29ef8c7c"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-014": {
+      "en": { 
+        "template_id": "cb56858b-70ea-4e05-8398-8de6cdd8200a"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-015": {
+      "en": { 
+        "template_id": "7e8224c6-b483-4169-8fb3-c036df68191e"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-016": {
+      "en": { 
+        "template_id": "1e59d5fa-cd5a-4d4a-8a3a-68cc9df303e1"
+      , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+     }
+  },
+  
+  "cron-017": {
+     "fr": { 
+       "template_id": "abb7c74a-21e4-45fd-a453-5b55da9b2e00"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  },
+  
+  "cron-018": {
+     "fr": { 
+       "template_id": "c7863bba-ca4d-4d07-a7e6-56e1fc2447f8"
+     , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+    }
+  }
+}

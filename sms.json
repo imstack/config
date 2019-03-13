@@ -1,0 +1,17 @@
+{
+    "signup": {
+        "en": { "body": "Hello, the InMemori online memorial page for {{fullname}} is created: {{uri.page}}. Please check your email to edit the page. The InMemori staff will contact you shortly." }
+      , "fr": { "body": "Bonjour, la page InMemori en hommage à {{fullname}} vient d'être créée : {{uri.page}}. Consultez votre boite mail pour la personnaliser et la partager avec vos proches." }
+      , "es": { "body": "Hola, la página memorial de InMemori para {{fullname}} ha sido creada: {{uri.page}}. Por favor revise su correo electrónico para editar la página. El equipo de InMemori se comunicará con usted pronto." }
+    }
+  , "share-link": {
+        "en": { "body": "Share a memory of {{fullname}} at {{uri.page}}." }
+      , "fr": { "body": "Partagez un souvenir de {{fullname}} sur {{uri.page}}." }
+      , "es": { "body": "Comparte un recuerdo de {{fullname}} sobre {{uri.page}}." }
+    }
+  , "share-admin": {
+        "en": { "body": "Manage the page of {{fullname}} at {{uri.admin}}." }
+      , "fr": { "body": "Administrez la page de {{fullname}} sur {{uri.admin}}." }
+      , "es": { "body": "" }
+    }
+}
