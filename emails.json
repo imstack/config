@@ -302,7 +302,7 @@
   "team-alert-flower": {
       "en": { "template_id": "" }
     , "fr": { 
-        "bcc": ["constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "quentin.chesnais@inmemori.com"]
+        "bcc": ["constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "elsa.marcot@inmemori.com"]
       , "template_id": "f9bca5fc-633c-4e86-854f-d3adbfe5fff4" }
     , "es": { 
         "bcc": "contact@inmemori.com"
