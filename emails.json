@@ -76,6 +76,11 @@
         "template_id": "35b2448f-7539-4e3f-bb6c-dbf6d9b816dc"
       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
       },
+     "fr": { 
+        "template_id": ""
+      , "from": { "email": "noreply@inmemori.com", "name": "{{context.senderName}} via InMemori" }
+      },
+
       "de": { 
         "template_id": "421f8e6f-2678-4c0f-bd81-b93bb6f3e6aa"
       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
@@ -94,6 +99,10 @@
       "fr": { 
         "template_id": "7a5b0b37-63ea-4cad-a180-ba092f7b96f0"
       , "from": { "email": "contact@inmemori.com", "name": "InMemori" }
+      },
+      "fr": { 
+        "template_id": ""
+      , "from": { "email": "contact@inmemori.com", "name": "{{context.senderName}} via InMemori" }
       },
       "de": { 
         "template_id": "8112db76-84fc-457c-bd32-0fcd24db74ab"
