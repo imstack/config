@@ -191,6 +191,7 @@
     , "config": { 
             "zone": "fr" 
           , "caid": ""
+          , "buyFlower": false 
           , "customEmail": true
         }
     , "text": "Les obsèques ont été organisées par : {{agency}}." 
