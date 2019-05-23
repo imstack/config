@@ -305,7 +305,7 @@
   "team-alert-flower": {
       "en": { "template_id": "" }
     , "fr": { 
-        "bcc": ["constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "elsa.marcot@inmemori.com"]
+        "bcc": ["constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "contact@inmemori.com"]
       , "template_id": "f9bca5fc-633c-4e86-854f-d3adbfe5fff4" }
     , "es": { 
         "bcc": "contact@inmemori.com"
@@ -315,10 +315,10 @@
   "team-alert-book": {
       "en": { "template_id": "" }
     , "fr": { 
-        "bcc": ["louis.grellet@inmemori.com", "constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "quentin.chesnais@inmemori.com"]
+        "bcc": ["louis.grellet@inmemori.com", "clementine.piazza@inmemori.com", "contact@inmemori.com"]
       , "template_id": "5bf34e68-a0f9-4cd7-b4a6-089588dc29fa" }
     , "de": { 
-        "bcc": ["louis.grellet@inmemori.com", "constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com", "quentin.chesnais@inmemori.com"]
+        "bcc": ["louis.grellet@inmemori.com", "constance.devernejoul@gmail.com", "marly.marlou@gmail.com", "clementine.piazza@inmemori.com"]
       , "template_id": "5bf34e68-a0f9-4cd7-b4a6-089588dc29fa" }
   },
 
