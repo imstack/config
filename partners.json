@@ -227,6 +227,17 @@
       , "text": "Les obsèques ont été organisées par les Pompes Funèbres de France Valenciennes (03 59 61 56 15)." 
     }    
     
+ 
+ , "yamasoft": { 
+      "type" : "ERP" 
+    , "config": { 
+            "zone": "fr"
+          , "caid": ""
+          , "customEmail": true
+        }
+      , "text": "Les obsèques ont été organisées par : {{agency}}." 
+    }    
+    
   , "colisee": { 
       "type" : "retirement" 
     , "config": { 
