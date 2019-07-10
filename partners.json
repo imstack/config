@@ -1,249 +1,198 @@
 {
-
-    "allianz": { 
-        "type" : "insurance"
-      , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    }
-
-  , "autrerive": { 
-     "type" : "funeral"
-   , "config": { 
-          "zone": "fr" 
-        , "caid": ""
+   "allianz":{
+      "type":"insurance",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
       }
-    , "text": "Les obsèques ont été organisées par les Pompes Funèbres L'Autre Rive." 
-  }
-
-  , "auxia": { 
-      "type" : "insurance" 
-    , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    }
-
-  , "aviva": { 
-      "type" : "insurance" 
-    , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    } 
-    
-  , "prevoir": { 
-      "type" : "insurance" 
-    , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    }   
-    
-    
-    , "ahorn": { 
-     "type" : "funeral"
-   , "config": { 
-            "zone": "de" 
-          , "caid": ""
-          , "customEmail": true
-        }
-   , "text"  : "Die Beerdigung wurde von Bestattungen Rolf organisiert, 711 67321471."
-    } 
-    
-
-  , "gayosso": { 
-      "type" : "funeral"
-    , "config": { 
-            "zone": "mx"
-          , "caid": "acct_1DJiYCAqHkZ6SvCW"
-          , "cut": 20
-          , "customEmail": true
-          , "buyFlower": "gayosso"
-        }
-    , "text"  : "El servicio funerario fue organizado por Gayosso."
-    }
-
-    
-   , "haven-health": { 
-     "type" : "hospice"
-   , "config": { 
-            "zone": "us" 
-          , "caid": ""
-        }
-    }   
-
-  , "holmes-watkins-funeral-home": { 
-      "type" : "funeral" 
-    , "config": { 
-            "zone": "us" 
-          , "caid": ""
-        }
-      , "text": "The memorial services have been organized by Holmes-Watkins Funeral Home, (860) 643-2441." 
-    }
-
-  , "imprimeur-paris": { 
-        "config": { 
-            "zone": "fr"
-          , "caid": "acct_1DJiXzJKN6oQQmCR" 
-        }
-    }
-
-  , "interflora-fr": { 
-        "config": { 
-            "zone": "fr"
-          , "caid": "acct_1DJiYIGMg492Tv0T" 
-        }
-    }
-
-  , "lefigaro": { 
-      "type" : "media"
-   ,  "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-      , "text": "Ce service est proposé par le Carnet du Jour du Figaro." 
-    }
-
-   , "manchester-funeral-home": { 
-       "type" : "funeral"
-    ,  "config": { 
-            "zone": "us" 
-          , "caid": ""
-          , "customEmail": true
-        }
-      , "text": "The memorial services have been organized by Manchester Funeral Home, (860) 643-6226." 
-    }
-
-  , "mutual-of-omaha": { 
-      "type" : "insurance"
-    , "config": { 
-            "zone": "us" 
-          , "caid": ""
-        }
-    }
-
-  , "pfggeneve": { 
-      "type" : "funeral"
-    , "config": { 
-            "zone": "ch"
-          , "caid": ""
-        }
-      , "text": "Les obsèques ont été organisées par les Pompes Funèbres Générales Genève, 022 342 30 60." 
-    }
-
-  , "philae": { 
-      "type" : "funeral" 
-    , "config": { 
-            "zone": "fr"
-          , "caid": ""
-        }
-      , "text": "Les obsèques ont été organisées par Philae, agence de pompes funèbres." 
-    } 
-
-  , "potter-funeral-home": { 
-      "type" : "funeral"
-    , "config": { 
-            "zone": "us" 
-          , "caid": ""
-          , "customEmail": true
-        }
-      , "text": "The memorial services have been organized by Potter Funeral Home, (860) 423-2211." 
-    }
-
-  , "previseo": { 
-      "type" : "insurance" 
-    , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    }    
-
-   , "carbone14": { 
-      "type" : "ERP" 
-    , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    , "text": "Les obsèques ont été organisées par : {{agency}}."  
-    } 
-  
-    , "addf": { 
-      "type" : "ERP" 
-    , "config": { 
-            "zone": "be" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    , "text": "Les obsèques ont été organisées par : {{agency}}." 
-    }    
-  
-    , "lomaco": { 
-      "type" : "ERP" 
-    , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "buyFlower": false 
-          , "customEmail": true
-        }
-    , "text": "Les obsèques ont été organisées par : {{agency}}." 
-    }  
-    
-    , "groupama": { 
-      "type" : "insurance" 
-    , "config": { 
-            "zone": "fr" 
-          , "caid": ""
-          , "customEmail": true
-        }
-    }  
-    
-  , "scf": { 
-      "type" : "funeral" 
-    , "config": { 
-            "zone": "fr"
-          , "caid": ""
-          , "buyFlower": false 
-          , "customEmail": true
-        }
-      , "text": "Les obsèques ont été organisées par le Service Catholique des Funérailles de {{agency}}, agence de pompes funèbres." 
-    }
-
-, "pfvaillant": { 
-      "type" : "funeral" 
-    , "config": { 
-            "zone": "fr"
-          , "caid": ""
-          , "customEmail": true
-        }
-      , "text": "Les obsèques ont été organisées par les Pompes Funèbres de France Valenciennes (03 59 61 56 15)." 
-    }    
-    
- 
- , "yamasoft": { 
-      "type" : "ERP" 
-    , "config": { 
-            "zone": "fr"
-          , "caid": ""
-          , "customEmail": true
-        }
-      , "text": "Les obsèques ont été organisées par : {{agency}}." 
-    }    
-    
-  , "colisee": { 
-      "type" : "retirement" 
-    , "config": { 
-            "zone": "fr"
-          , "caid": ""
-          , "customEmail": false
-       }
-    }    
+   },
+   "autrerive":{
+      "type":"funeral",
+      "text":"Les obsèques ont été organisées par les Pompes Funèbres L'Autre Rive.",
+      "config":{
+         "zone":"fr"
+      }
+   },
+   "auxia":{
+      "type":"insurance",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "aviva":{
+      "type":"insurance",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "prevoir":{
+      "type":"insurance",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "ahorn":{
+      "type":"funeral",
+      "text":"Die Beerdigung wurde von Bestattungen Rolf organisiert, 711 67321471.",
+      "config":{
+         "zone":"de",
+         "customEmail":true
+      }
+   },
+   "gayosso":{
+      "type":"funeral",
+      "text":"El servicio funerario fue organizado por Gayosso.",
+      "config":{
+         "zone":"mx",
+         "caid":"acct_1DJiYCAqHkZ6SvCW",
+         "cut":20,
+         "customEmail":true,
+         "buyFlower":"gayosso"
+      }
+   },
+   "haven-health":{
+      "type":"hospice",
+      "config":{
+         "zone":"us"
+      }
+   },
+   "holmes-watkins-funeral-home":{
+      "type":"funeral",
+      "text":"The memorial services have been organized by Holmes-Watkins Funeral Home, (860) 643-2441.",
+      "config":{
+         "zone":"us"
+      }
+   },
+   "imprimeur-paris":{
+      "type":"book",
+      "config":{
+         "zone":"fr",
+         "caid":"acct_1DJiXzJKN6oQQmCR"
+      }
+   },
+   "interflora-fr":{
+      "type":"flower",
+      "config":{
+         "zone":"fr",
+         "caid":"acct_1DJiYIGMg492Tv0T"
+      }
+   },
+   "lefigaro":{
+      "type":"media",
+      "text":"Ce service est proposé par le Carnet du Jour du Figaro.",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "manchester-funeral-home":{
+      "type":"funeral",
+      "text":"The memorial services have been organized by Manchester Funeral Home, (860) 643-6226.",
+      "config":{
+         "zone":"us",
+         "customEmail":true
+      }
+   },
+   "mutual-of-omaha":{
+      "type":"insurance",
+      "config":{
+         "zone":"us"
+      }
+   },
+   "pfggeneve":{
+      "type":"funeral",
+      "text":"Les obsèques ont été organisées par les Pompes Funèbres Générales Genève, 022 342 30 60.",
+      "config":{
+         "zone":"ch"
+      }
+   },
+   "philae":{
+      "type":"funeral",
+      "text":"Les obsèques ont été organisées par Philae, agence de pompes funèbres.",
+      "config":{
+         "zone":"fr"
+      }
+   },
+   "potter-funeral-home":{
+      "type":"funeral",
+      "text":"The memorial services have been organized by Potter Funeral Home, (860) 423-2211.",
+      "config":{
+         "zone":"us",
+         "customEmail":true
+      }
+   },
+   "previseo":{
+      "type":"insurance",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "carbone14":{
+      "type":"ERP",
+      "text":"Les obsèques ont été organisées par : {{agency}}.",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "addf":{
+      "type":"ERP",
+      "text":"Les obsèques ont été organisées par : {{agency}}.",
+      "config":{
+         "zone":"be",
+         "customEmail":true
+      }
+   },
+   "lomaco":{
+      "type":"ERP",
+      "text":"Les obsèques ont été organisées par : {{agency}}.",
+      "config":{
+         "zone":"fr",
+         "buyFlower":false,
+         "customEmail":true
+      }
+   },
+   "groupama":{
+      "type":"insurance",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "scf":{
+      "type":"funeral",
+      "text":"Les obsèques ont été organisées par le Service Catholique des Funérailles de {{agency}}, agence de pompes funèbres.",
+      "config":{
+         "zone":"fr",
+         "buyFlower":false,
+         "customEmail":true
+      }
+   },
+   "pfvaillant":{
+      "type":"funeral",
+      "text":"Les obsèques ont été organisées par les Pompes Funèbres de France Valenciennes (03 59 61 56 15).",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "yamasoft":{
+      "type":"ERP",
+      "text":"Les obsèques ont été organisées par : {{agency}}.",
+      "config":{
+         "zone":"fr",
+         "customEmail":true
+      }
+   },
+   "colisee":{
+      "type":"retirement",
+      "config":{
+         "zone":"fr",
+         "customEmail":false
+      }
+   }
 }
