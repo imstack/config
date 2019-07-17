@@ -45,6 +45,9 @@
    "gayosso":{
       "type":"funeral",
       "text":"El servicio funerario fue organizado por Gayosso.",
+      "features": {
+         "flower": { "caid":"acct_1DJiYCAqHkZ6SvCW", "cut":20 }
+      },
       "config":{
          "zone":"mx",
          "caid":"acct_1DJiYCAqHkZ6SvCW",
@@ -68,6 +71,9 @@
    },
    "imprimeur-paris":{
       "type":"book",
+      "features": {
+         "book": { "caid":"acct_1DJiXzJKN6oQQmCR" }
+      },
       "config":{
          "zone":"fr",
          "caid":"acct_1DJiXzJKN6oQQmCR"
@@ -75,6 +81,9 @@
    },
    "interflora-fr":{
       "type":"flower",
+      "features": {
+         "flower": { "caid":"acct_1DJiYIGMg492Tv0T" }
+      },
       "config":{
          "zone":"fr",
          "caid":"acct_1DJiYIGMg492Tv0T"
@@ -150,6 +159,9 @@
    "lomaco":{
       "type":"ERP",
       "text":"Les obsèques ont été organisées par : {{agency}}.",
+      "features": {
+         "flower": false
+      },
       "config":{
          "zone":"fr",
          "buyFlower":false,
@@ -166,6 +178,9 @@
    "scf":{
       "type":"funeral",
       "text":"Les obsèques ont été organisées par le Service Catholique des Funérailles de {{agency}}, agence de pompes funèbres.",
+      "features": {
+         "flower": false
+      },
       "config":{
          "zone":"fr",
          "buyFlower":false,
