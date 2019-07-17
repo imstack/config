@@ -1,35 +1,32 @@
 {
-     "xxx": { "buyFlower": false, "buyBook": false, "dummyPlace": false }
-   , "pfronteau": { "buyBook": false } 
-   , "mfourcade-e24qt": { "buyFlower": false }
-   , "chusson-e39ug": { "blockEmail": "marie2", "blockMessage": "", "blockName": "" }
-   , "pdurand-e13rg": { "buyFlower": false }
-   , "bbarcelo": {"dummyPlace": false }
-   , "flemoine-e72rz": { "buyFlower": false }
-   , "ttest96": {"dummyPlace": false }  
-   , "dplouzennec-e42te": { "buyFlower": false }
-   , "crouille-e65oq": { "buyFlower": false }
-   , "mbrossollet-e45yl": { "buyFlower": false }
-   , "ihlavac-e49ff" : { "buyFlower": false }
-   , "afrancis-e23zc" : { "buyFlower": false }
-   , "atschiember-e29xj" : { "blockEmail" : "bragazzialdo" }  
-   , "igabin-e32us" : { "buyFlower": false }
-   , "ecousin-e41jh" : { "buyFlower": false }
-   , "rvital-e68fp" : { "buyFlower": false }
-   , "acastillocruz-e63zl" :  { "buyBook": false ,"buyFlower": false }
-   , "btrottmann-e27jt" : { "buyFlower": false }
-   , "mdarricourt-e13nl" : { "buyFlower": false }
-   , "cbellenguez-e53jb" : { "buyFlower": false }
-   , "croux-e23ca": { "buyFlower": false}  
-   , "aseraphin-e31vg": { "buyFlower": false }
-   , "jberard-e62yp": { "buyFlower": false }
-   , "dpohier-e66yi": { "buyFlower": false } 
-   , "mdarricourt-e59jg": { "buyFlower": false }
-   , "ttest-e83zh": { "buyFlower": false }
-   , "ttest-e97te": { "buyFlower": false }
-   , "mdarricourt-e52fw": { "buyFlower": false }
-   , "mdarricourt-e43gn" : { "buyFlower": false }
-   , "jdevillers-e39dy": { "buyFlower": false }
-   , "eivars-e63an": { "buyFlower": false }
-   , "fcarette-e79ve": { "buyFlower": false }  
+     "xxx":                   { "features": { "flower": false, "book": false }, "dummyPlace": false }
+   , "acastillocruz-e63zl":   { "features": { "flower": false, "book": false }, "buyFlower": false, "buyBook": false }
+   , "afrancis-e23zc":        { "features": { "flower": false }, "buyFlower": false }
+   , "aseraphin-e31vg":       { "features": { "flower": false }, "buyFlower": false }
+   , "atschiember-e29xj":     { "blockEmail" : "bragazzialdo" }  
+   , "bbarcelo":              { "dummyPlace": false }
+   , "btrottmann-e27jt":      { "features": { "flower": false }, "buyFlower": false }
+   , "cbellenguez-e53jb":     { "features": { "flower": false }, "buyFlower": false }
+   , "chusson-e39ug":         { "blockEmail": "marie2", "blockMessage": "", "blockName": "" }
+   , "crouille-e65oq":        { "features": { "flower": false }, "buyFlower": false }
+   , "croux-e23ca":           { "features": { "flower": false }, "buyFlower": false }
+   , "dplouzennec-e42te":     { "features": { "flower": false }, "buyFlower": false }
+   , "dpohier-e66yi":         { "features": { "flower": false }, "buyFlower": false } 
+   , "ecousin-e41jh":         { "features": { "flower": false }, "buyFlower": false }
+   , "eivars-e63an":          { "features": { "flower": false }, "buyFlower": false }
+   , "fcarette-e79ve":        { "features": { "flower": false }, "buyFlower": false }  
+   , "flemoine-e72rz":        { "features": { "flower": false }, "buyFlower": false }
+   , "igabin-e32us":          { "features": { "flower": false }, "buyFlower": false }
+   , "ihlavac-e49ff":         { "features": { "flower": false }, "buyFlower": false }
+   , "jberard-e62yp":         { "features": { "flower": false }, "buyFlower": false }
+   , "jdevillers-e39dy":      { "features": { "flower": false }, "buyFlower": false }
+   , "mbrossollet-e45yl":     { "features": { "flower": false }, "buyFlower": false }
+   , "mdarricourt-e13nl":     { "features": { "flower": false }, "buyFlower": false }
+   , "mdarricourt-e43gn":     { "features": { "flower": false }, "buyFlower": false }
+   , "mdarricourt-e52fw":     { "features": { "flower": false }, "buyFlower": false }
+   , "mdarricourt-e59jg":     { "features": { "flower": false }, "buyFlower": false }
+   , "mfourcade-e24qt":       { "features": { "flower": false }, "buyFlower": false }
+   , "pdurand-e13rg":         { "features": { "flower": false }, "buyFlower": false }
+   , "pfronteau":             { "features": { "book": false }, "buyBook": false }
+   , "rvital-e68fp":          { "features": { "flower": false }, "buyFlower": false }
 }
