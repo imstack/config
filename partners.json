@@ -82,7 +82,7 @@
    "interflora-fr":{
       "type":"flower",
       "features": {
-         "flower": { "caid":"acct_1DJiYIGMg492Tv0T" }
+         "flower": { "catalog": "interflora-fr", "caid":"acct_1DJiYIGMg492Tv0T" }
       },
       "config":{
          "zone":"fr",
