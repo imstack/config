@@ -1,41 +1,38 @@
 {
-   "carbone14|agence-berthelot-pole-funeraire-public-":{
+   "carbone14|agence-berthelot-pole-funeraire-public":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-berthelot-pole-funeraire-public-metropole-de-lyon-":{
+   "carbone14|agence-berthelot-pole-funeraire-public-metropole-de-lyon":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-bron-pole-funeraire-public-":{
+   "carbone14|agence-bron-pole-funeraire-public":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-bron-pole-funeraire-public-metropole-de-lyon-":{
+   "carbone14|agence-bron-pole-funeraire-public-metropole-de-lyon":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-corbas-pole-funeraire-public-":{
+   "carbone14|agence-corbas-pole-funeraire-public":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-corbas-pole-funeraire-public-metropole-de-lyon-":{
+   "carbone14|agence-corbas-pole-funeraire-public-metropole-de-lyon":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-croix-rousse-pole-funeraire-public-":{
+   "carbone14|agence-croix-rousse-pole-funeraire-public":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-croix-rousse-pole-funeraire-public-metropole-de-lyon-":{
+   "carbone14|agence-croix-rousse-pole-funeraire-public-metropole-de-lyon":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-grange-blanche-pole-funeraire-public-":{
-      "name":"PFP Lyon"
-   },
-   "carbone14|agence-grange-blanche-pole-funeraire-public-metropole-de-lyon-":{
+   "carbone14|agence-grange-blanche-pole-funeraire-public":{
       "name":"PFP Lyon"
    },
    "carbone14|agence-grange-blanche-pole-funeraire-public-metropole-de-lyon":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-villeurbanne-pole-funeraire-public-":{
+   "carbone14|agence-villeurbanne-pole-funeraire-public":{
       "name":"PFP Lyon"
    },
-   "carbone14|agence-villeurbanne-pole-funeraire-public-metropole-de-lyon-":{
+   "carbone14|agence-villeurbanne-pole-funeraire-public-metropole-de-lyon":{
       "name":"PFP Lyon"
    },
    "lomaco|01-handy-mondeilh-phs-funeraire":{
@@ -327,36 +324,36 @@
       "name":"Ville De Limoges"
    },
    "scf|aix-en-provence":{
-      "name":"Scf Aix En Provence"
+      "name":"SCF Aix En Provence"
    },
    "scf|bordeaux":{
-      "name":"Scf Bordeaux"
+      "name":"SCF Bordeaux"
    },
    "scf|boulogne":{
-      "name":"Scf Boulogne"
+      "name":"SCF Boulogne"
    },
    "scf|frejus":{
-      "name":"Scf Frejus"
+      "name":"SCF Frejus"
    },
    "scf|lyon":{
-      "name":"Scf Lyon"
+      "name":"SCF Lyon"
    },
    "scf|marseille":{
-      "name":"Scf Marseille"
+      "name":"SCF Marseille"
    },
    "scf|nice":{
-      "name":"Scf Nice"
+      "name":"SCF Nice"
    },
    "scf|paris":{
-      "name":"Scf Paris"
+      "name":"SCF Paris"
    },
    "scf|pf-jean-bernard-lordel":{
       "name":"Pompes Funebres Lordel"
    },
    "scf|toulon":{
-      "name":"Scf Toulon"
+      "name":"SCF Toulon"
    },
    "scf|versailles":{
-      "name":"Scf Versailles"
+      "name":"SCF Versailles"
    }
 }
