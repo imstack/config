@@ -1,4 +1,8 @@
 {
+   "partnerTest|agence-test":{
+      "name":"Mon agence test",
+      "features": { "flower": false }
+   },
    "carbone14|agence-berthelot-pole-funeraire-public":{
       "name":"PFP Lyon"
    },
