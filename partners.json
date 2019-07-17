@@ -46,7 +46,7 @@
       "type":"funeral",
       "text":"El servicio funerario fue organizado por Gayosso.",
       "features": {
-         "flower": { "catalog": "gayosso", "caid":"acct_1DJiYCAqHkZ6SvCW", "cut":20 }
+         "flower": { "catalog": "gayosso", "hours": 21, "caid":"acct_1DJiYCAqHkZ6SvCW", "cut":20 }
       },
       "config":{
          "zone":"mx",
@@ -82,7 +82,7 @@
    "interflora-fr":{
       "type":"flower",
       "features": {
-         "flower": { "catalog": "interflora-fr", "caid":"acct_1DJiYIGMg492Tv0T" }
+         "flower": { "catalog": "interflora-fr", "hours": -2, "caid":"acct_1DJiYIGMg492Tv0T" }
       },
       "config":{
          "zone":"fr",
