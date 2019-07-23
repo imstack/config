@@ -29,7 +29,8 @@
    , "pdurand-e13rg":         { "features": { "flower": false }, "buyFlower": false }
    , "pfronteau":             { "features": { "book": false }, "buyBook": false }
    , "rvital-e68fp":          { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e16ow": { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e91yv": { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e19dj": { "features": { "flower": false }, "buyFlower": false }
+   , "mdarricourt-e16ow":     { "features": { "flower": false }, "buyFlower": false }
+   , "mdarricourt-e91yv":     { "features": { "flower": false }, "buyFlower": false }
+   , "mdarricourt-e19dj":     { "features": { "flower": false }, "buyFlower": false }
+   , "edelahoussaye-e16mt":   { "features": { "flower": false }, "buyFlower": false }   
 }
