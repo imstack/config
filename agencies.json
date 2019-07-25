@@ -41,7 +41,10 @@
    },
    
    "gayosso|funeraria-cap-marianas" :{
-   "name":"Funeraria Capillas Marianas Monterrey"
+      "name":"Funeraria Capillas Marianas Monterrey",
+      "features":{
+         "flower":{"catalog":"gayosso-monterrey"}
+      }
    },
    
    "lomaco|01-handy-mondeilh-phs-funeraire":{
