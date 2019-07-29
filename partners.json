@@ -50,7 +50,8 @@
         "catalog":"gayosso",
         "caid":"acct_1DJiYCAqHkZ6SvCW",
         "hours":21,
-        "cut":20
+        "cut":20,
+        "email":["gayosso@inmemori.com","floreria_mex@gayosso.com","floreria2_mex@gayosso.com"]
       }
     },
     "config":{
