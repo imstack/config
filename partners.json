@@ -98,7 +98,8 @@
       "flower":{
         "catalog":"interflora-fr",
         "hours":-2,
-        "caid":"acct_1DJiYIGMg492Tv0T"
+        "caid":"acct_1DJiYIGMg492Tv0T",
+        "email":["interflora@inmemori.com"]
       }
     },
     "config":{
