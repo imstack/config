@@ -20,7 +20,9 @@ Don't update this file, the actual settings can only be changed in the codebase 
 
 ## zone MX
 ```
-{}
+{
+    flower: 'gayosso'
+}
 ```
 
 ## zone BE
