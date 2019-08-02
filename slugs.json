@@ -34,5 +34,5 @@
    , "mdarricourt-e19dj":     { "features": { "flower": false }, "buyFlower": false }
    , "edelahoussaye-e16mt":   { "features": { "flower": false }, "buyFlower": false }   
    , "lroux-e98cb":           { "features": { "flower": false }, "buyFlower": false }    
-   //, "amercadopadilla-u88dl": { "features": {"book": {"catalog":"imprimeur-mexico"}}} 
+   , "amercadopadilla-u88dl": { "features": {"book": {"catalog":"imprimeur-mexico"}}} 
 }
