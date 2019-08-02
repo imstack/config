@@ -81,11 +81,10 @@
       "book":{
         "catalog":"imprimeur-mexico",
         "caid":"acct_1DJiXzJKN6oQQmCR"
-      },
+      }
     },
     "config":{
-      "zone":"mx",
-      "caid":"acct_1DJiXzJKN6oQQmCR"
+      "zone":"mx"
     }
   },
    "imprimeur-paris":{
