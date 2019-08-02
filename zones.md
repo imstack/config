@@ -22,6 +22,7 @@ Don't update this file, the actual settings can only be changed in the codebase 
 ```
 {
     flower: 'gayosso'
+  , book : 'imprimeur-mexico'  
 }
 ```
 
