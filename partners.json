@@ -75,7 +75,20 @@
       "zone":"us"
     }
   },
-  "imprimeur-paris":{
+  "imprimeur-mexico":{
+    "type":"book",
+    "features":{
+      "book":{
+        "catalog":"imprimeur-mexico",
+        "caid":"acct_1DJiXzJKN6oQQmCR"
+      },
+    },
+    "config":{
+      "zone":"mx",
+      "caid":"acct_1DJiXzJKN6oQQmCR"
+    }
+  },
+   "imprimeur-paris":{
     "type":"book",
     "features":{
       "book":{
