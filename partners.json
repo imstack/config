@@ -173,7 +173,7 @@
   },
   "carbone14":{
     "type":"ERP",
-    "text":"Les obsèques ont été organisées par : {{agency}}.",
+    "text":"Les obsèques ont été organisées par {{agency}}.",
     "config":{
       "zone":"fr",
       "customEmail":true
@@ -189,7 +189,7 @@
   },
   "lomaco":{
     "type":"ERP",
-    "text":"Les obsèques ont été organisées par : {{agency}}.",
+    "text":"Les obsèques ont été organisées par {{agency}}.",
     "features":{
       "flower":false
     },
