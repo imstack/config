@@ -1,38 +1,38 @@
 {
      "xxx":                   { "features": { "flower": false, "book": false }, "dummyPlace": false }
-   , "acastillocruz-e63zl":   { "features": { "flower": false, "book": false }, "buyFlower": false, "buyBook": false }
-   , "afrancis-e23zc":        { "features": { "flower": false }, "buyFlower": false }
-   , "aseraphin-e31vg":       { "features": { "flower": false }, "buyFlower": false }
+   , "acastillocruz-e63zl":   { "features": { "flower": false, "book": false } }
+   , "afrancis-e23zc":        { "features": { "flower": false } }
+   , "aseraphin-e31vg":       { "features": { "flower": false } }
    , "atschiember-e29xj":     { "blockEmail" : "bragazzialdo" }  
    , "bbarcelo":              { "dummyPlace": false }
-   , "btrottmann-e27jt":      { "features": { "flower": false }, "buyFlower": false }
-   , "cbellenguez-e53jb":     { "features": { "flower": false }, "buyFlower": false }
+   , "btrottmann-e27jt":      { "features": { "flower": false } }
+   , "cbellenguez-e53jb":     { "features": { "flower": false } }
    , "chusson-e39ug":         { "blockEmail": "marie2", "blockMessage": "", "blockName": "" }
-   , "crouille-e65oq":        { "features": { "flower": false }, "buyFlower": false }
-   , "croux-e23ca":           { "features": { "flower": false }, "buyFlower": false }
-   , "dplouzennec-e42te":     { "features": { "flower": false }, "buyFlower": false }
-   , "dpohier-e66yi":         { "features": { "flower": false }, "buyFlower": false } 
-   , "ecousin-e41jh":         { "features": { "flower": false }, "buyFlower": false }
-   , "eivars-e63an":          { "features": { "flower": false }, "buyFlower": false }
-   , "fcarette-e79ve":        { "features": { "flower": false }, "buyFlower": false }  
-   , "flemoine-e72rz":        { "features": { "flower": false }, "buyFlower": false }
-   , "igabin-e32us":          { "features": { "flower": false }, "buyFlower": false }
-   , "ihlavac-e49ff":         { "features": { "flower": false }, "buyFlower": false }
-   , "jberard-e62yp":         { "features": { "flower": false }, "buyFlower": false }
-   , "jdevillers-e39dy":      { "features": { "flower": false }, "buyFlower": false }
-   , "mbrossollet-e45yl":     { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e13nl":     { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e43gn":     { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e52fw":     { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e59jg":     { "features": { "flower": false }, "buyFlower": false }
-   , "mfourcade-e24qt":       { "features": { "flower": false }, "buyFlower": false }
-   , "pdurand-e13rg":         { "features": { "flower": false }, "buyFlower": false }
-   , "pfronteau":             { "features": { "book": false }, "buyBook": false }
-   , "rvital-e68fp":          { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e16ow":     { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e91yv":     { "features": { "flower": false }, "buyFlower": false }
-   , "mdarricourt-e19dj":     { "features": { "flower": false }, "buyFlower": false }
-   , "edelahoussaye-e16mt":   { "features": { "flower": false }, "buyFlower": false }   
-   , "lroux-e98cb":           { "features": { "flower": false }, "buyFlower": false }    
-   , "amercadopadilla-u88dl": { "features": {"book": {"catalog":"imprimeur-mexico"}}} 
+   , "crouille-e65oq":        { "features": { "flower": false } }
+   , "croux-e23ca":           { "features": { "flower": false } }
+   , "dplouzennec-e42te":     { "features": { "flower": false } }
+   , "dpohier-e66yi":         { "features": { "flower": false } } 
+   , "ecousin-e41jh":         { "features": { "flower": false } }
+   , "eivars-e63an":          { "features": { "flower": false } }
+   , "fcarette-e79ve":        { "features": { "flower": false } }  
+   , "flemoine-e72rz":        { "features": { "flower": false } }
+   , "igabin-e32us":          { "features": { "flower": false } }
+   , "ihlavac-e49ff":         { "features": { "flower": false } }
+   , "jberard-e62yp":         { "features": { "flower": false } }
+   , "jdevillers-e39dy":      { "features": { "flower": false } }
+   , "mbrossollet-e45yl":     { "features": { "flower": false } }
+   , "mdarricourt-e13nl":     { "features": { "flower": false } }
+   , "mdarricourt-e43gn":     { "features": { "flower": false } }
+   , "mdarricourt-e52fw":     { "features": { "flower": false } }
+   , "mdarricourt-e59jg":     { "features": { "flower": false } }
+   , "mfourcade-e24qt":       { "features": { "flower": false } }
+   , "pdurand-e13rg":         { "features": { "flower": false } }
+   , "pfronteau":             { "features": { "book": false } }
+   , "rvital-e68fp":          { "features": { "flower": false } }
+   , "mdarricourt-e16ow":     { "features": { "flower": false } }
+   , "mdarricourt-e91yv":     { "features": { "flower": false } }
+   , "mdarricourt-e19dj":     { "features": { "flower": false } }
+   , "edelahoussaye-e16mt":   { "features": { "flower": false } }   
+   , "lroux-e98cb":           { "features": { "flower": false } }    
+   , "amercadopadilla-u88dl": { "features": { "book": "imprimeur-mexico" } } 
 }
