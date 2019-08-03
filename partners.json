@@ -56,10 +56,7 @@
     },
     "config":{
       "zone":"mx",
-      "caid":"acct_1DJiYCAqHkZ6SvCW",
-      "cut":20,
-      "customEmail":true,
-      "buyFlower":"gayosso"
+      "customEmail":true
     }
   },
   "haven-health":{
@@ -100,8 +97,7 @@
       }
     },
     "config":{
-      "zone":"fr",
-      "caid":"acct_1DJiXzJKN6oQQmCR"
+      "zone":"fr"
     }
   },
   "interflora-fr":{
@@ -115,8 +111,7 @@
       }
     },
     "config":{
-      "zone":"fr",
-      "caid":"acct_1DJiYIGMg492Tv0T"
+      "zone":"fr"
     }
   },
   "lefigaro":{
@@ -194,7 +189,6 @@
     },
     "config":{
       "zone":"fr",
-      "buyFlower":false,
       "customEmail":true
     }
   },
@@ -213,7 +207,6 @@
     },
     "config":{
       "zone":"fr",
-      "buyFlower":false,
       "customEmail":true
     }
   },
