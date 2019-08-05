@@ -34,6 +34,7 @@
    , "mdarricourt-e19dj":     { "features": { "flower": false } }
    , "edelahoussaye-e16mt":   { "features": { "flower": false } }   
    , "lroux-e98cb":           { "features": { "flower": false } }    
-   , "abinder-e16ql":         { "features": { "flower": false } }       
+   , "abinder-e16ql":         { "features": { "flower": false } }  
+   , "mtronchon-e59gl":       { "features": { "flower": false } }  
    , "amercadopadilla-u88dl": { "features": { "book": "imprimeur-mexico" } } 
 }
