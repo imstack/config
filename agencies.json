@@ -337,36 +337,36 @@
       "name":"Ville De Limoges"
    },
    "scf|aix-en-provence":{
-      "name":"SCF Aix En Provence"
+      "name":"Aix-En-Provence"
    },
    "scf|bordeaux":{
-      "name":"SCF Bordeaux"
+      "name":"Bordeaux"
    },
    "scf|boulogne":{
-      "name":"SCF Boulogne"
+      "name":"Boulogne"
    },
    "scf|frejus":{
-      "name":"SCF Frejus"
+      "name":"Fréjus"
    },
    "scf|lyon":{
-      "name":"SCF Lyon"
+      "name":"Lyon"
    },
    "scf|marseille":{
-      "name":"SCF Marseille"
+      "name":"Marseille"
    },
    "scf|nice":{
-      "name":"SCF Nice"
+      "name":"Nice"
    },
    "scf|paris":{
-      "name":"SCF Paris"
+      "name":"Paris"
    },
-   "scf|pf-jean-bernard-lordel":{
+   "lomaco|pf-jean-bernard-lordel":{
       "name":"Pompes Funebres Lordel"
    },
    "scf|toulon":{
-      "name":"SCF Toulon"
+      "name":"Toulon"
    },
    "scf|versailles":{
-      "name":"SCF Versailles"
+      "name":"Versailles"
    }
 }
