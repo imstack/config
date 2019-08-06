@@ -154,7 +154,7 @@
     "es":{ "template_id":"fe96b7d1-d415-4d51-98bb-bb2001b79a81" }
   },
   "signup-scf":{
-    "fr":{ "template_id":"d653fdd8-854a-4bc2-8cf2-06a0e490ed31", "from":{ "name":"Service Catholique des Funérailles" } }
+    "fr":{ "template_id":"d653fdd8-854a-4bc2-8cf2-06a0e490ed31", "from":{ "email":"contact@inmemori.com", "name":"Service Catholique des Funérailles" } }
   },
   "signup-auxia":{
     "fr":{ "template_id":"5efbb146-cded-49f6-8ac1-3c860567cccc" }
@@ -166,13 +166,13 @@
     "fr":{ "template_id":"8780a8e1-c620-4d7d-bc8d-34dae8721d3b" }
   },
   "signup-manchester-funeral-home":{
-    "en":{ "template_id":"64860342-703c-4196-882f-def7a42937a1", "from":{ "name":"Manchester Funeral Home" } }
+    "en":{ "template_id":"64860342-703c-4196-882f-def7a42937a1", "from":{ "email":"contact@inmemori.com", "name":"Manchester Funeral Home" } }
   },
   "signup-holmes-watkins-funeral-home":{
-    "en":{ "template_id":"38a6ad35-ff8a-48ab-ac7b-47ef61652b24", "from":{ "name":"Holmes Watkins Funeral Home" } }
+    "en":{ "template_id":"38a6ad35-ff8a-48ab-ac7b-47ef61652b24", "from":{ "email":"contact@inmemori.com", "name":"Holmes Watkins Funeral Home" } }
   },
   "signup-potter-funeral-home":{
-    "en":{ "template_id":"6af14af5-e5aa-4e96-b0ea-18308dc18599", "from":{ "name":"Potter Funeral Home" } }
+    "en":{ "template_id":"6af14af5-e5aa-4e96-b0ea-18308dc18599", "from":{ "email":"contact@inmemori.com", "name":"Potter Funeral Home" } }
   },
   "signup-aviva":{
     "fr":{ "template_id":"b97bba63-336f-488a-b164-ecf7ed4ff293" }
@@ -184,22 +184,22 @@
     "fr":{ "template_id":"fe46f0e7-8814-4d5e-a2d4-59acfe4887f7" }
   },
   "signup-gayosso":{
-    "es":{ "template_id":"da03702d-3abb-46f1-9b9c-774bb4621ce3", "from":{ "name":"Gayosso" } }
+    "es":{ "template_id":"da03702d-3abb-46f1-9b9c-774bb4621ce3", "from":{ "email":"contact@inmemori.com", "name":"Gayosso" } }
   },
   "signup-ahorn":{
-    "de":{ "template_id":"d17b8137-fc8a-494e-9b24-c7f08a7447fd", "from":{ "name":"Rolf" } }
+    "de":{ "template_id":"d17b8137-fc8a-494e-9b24-c7f08a7447fd", "from":{ "email":"contact@inmemori.com", "name":"Rolf" } }
   },
   "signup-carbone14":{
-    "fr":{ "template_id":"673725aa-2efe-4b88-85e0-6837bc09b1c3", "from":{ "name":"Votre conseiller funéraire" } }
+    "fr":{ "template_id":"673725aa-2efe-4b88-85e0-6837bc09b1c3", "from":{ "email":"contact@inmemori.com", "name":"Votre conseiller funéraire" } }
   },
   "signup-lomaco":{
-    "fr":{ "template_id":"673725aa-2efe-4b88-85e0-6837bc09b1c3", "from":{ "name":"Votre conseiller funéraire" } }
+    "fr":{ "template_id":"673725aa-2efe-4b88-85e0-6837bc09b1c3", "from":{ "email":"contact@inmemori.com", "name":"Votre conseiller funéraire" } }
   },
   "signup-addf":{
-    "fr":{ "template_id":"673725aa-2efe-4b88-85e0-6837bc09b1c3", "from":{ "name":"Votre conseiller funéraire" } }
+    "fr":{ "template_id":"673725aa-2efe-4b88-85e0-6837bc09b1c3", "from":{ "email":"contact@inmemori.com", "name":"Votre conseiller funéraire" } }
   },
   "signup-pfvaillant":{
-    "fr":{ "template_id":"fa386c32-6ecf-44ce-8f99-49c72c058a5b", "from":{ "name":"Votre conseiller funéraire" } }
+    "fr":{ "template_id":"fa386c32-6ecf-44ce-8f99-49c72c058a5b", "from":{ "email":"contact@inmemori.com", "name":"Votre conseiller funéraire" } }
   },
   "signup-groupama":{
     "fr":{ "template_id":"6096b2c5-8f08-4967-9394-87aa42e86499" }
