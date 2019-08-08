@@ -4,7 +4,7 @@
     "tags":"insurance"
   },
   "autrerive":{
-    "config":{ "zone":"fr" },
+    "config":{ "zone":"fr","promo":true },
     "tags":"funeral"
   },
   "auxia":{
@@ -96,7 +96,7 @@
     "tags":"insurance"
   },
   "pfggeneve":{
-    "config":{ "zone":"ch" },
+    "config":{ "zone":"ch", "promo":true },
     "phone":"022 342 30 60",
     "tags":"funeral"
   },
@@ -114,15 +114,15 @@
     "tags":"insurance"
   },
   "carbone14":{
-    "config":{ "zone":"fr", "customEmail":true },
+    "config":{ "zone":"fr", "customEmail":true, "promo": true },
     "tags":"ERP"
   },
   "addf":{
-    "config":{ "zone":"be", "customEmail":true },
+    "config":{ "zone":"be", "customEmail":true, "promo": true },
     "tags":"ERP"
   },
   "lomaco":{
-    "config":{ "zone":"fr", "customEmail":true },
+    "config":{ "zone":"fr", "customEmail":true, "promo":true },
     "tags":"ERP",
     "features":{
       "flower":false
@@ -133,19 +133,19 @@
     "tags":"insurance"
   },
   "scf":{
-    "config":{ "zone":"fr", "customEmail":true },
+    "config":{ "zone":"fr", "customEmail":true, "promo": true },
     "tags":"funeral",
     "features":{
       "flower":false
     }
   },
   "pfvaillant":{
-    "config":{ "zone":"fr", "customEmail":true },
+    "config":{ "zone":"fr", "customEmail":true, "promo":true },
     "phone":"03 59 61 56 15",
     "tags":"funeral"
   },
   "yamasoft":{
-    "config":{ "zone":"fr", "customEmail":true },
+    "config":{ "zone":"fr", "customEmail":true, "promo":true },
     "tags":"ERP"
   },
   "colisee":{
