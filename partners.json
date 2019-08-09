@@ -25,7 +25,7 @@
     "tags":"funeral"
   },
   "gayosso":{
-    "config":{ "zone":"mx", "promo":true", customEmail":true },
+    "config":{ "zone":"mx", "promo":true, "customEmail":true },
     "tags":"funeral",
     "features":{
       "flower":{
