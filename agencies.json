@@ -3,6 +3,40 @@
       "name":"Mon agence test",
       "features": { "flower": false }
    },
+   "addf|funerarium-spruyt-sa":{
+      "name":"le Funérarium Spruyt"
+   },
+   "addf|funerailles-altenloh-greindl":{
+      "name":"les Funérailles Altenloh & Greindl"
+   },
+   "addf|funerailles-goffinet":{
+      "name":"les Funérailles Goffinet"
+   },
+   "addf|funerarium-d-uccle":{
+      "name":"le Funérarium d’Uccle"
+   },
+   "addf|funerarium-mommens-sa":{
+      "name":"le Funérarium Mommens"   
+   },
+   "addf|funerarium-des-stockeloises":{
+      "name":"le Funérarium des Stockeloises"
+   },
+   "addf|funerailles-de-greve":{
+      "name":"les Funérailles de Grève"
+   },
+   "addf|funerailles-michel":{
+      "name":"les Funérailles Michel"
+   },
+  "addf|funerailles-philippe-muller":{
+      "name":"les Funérailles Philippe Muller"
+   },
+   "addf|funerailles-minten":{
+      "name":"les Funérailles Minten"
+   },
+   "addf|societe-bruxelloise-de-cremation":{
+      "name":"la Société Bruxelloise de Crémation"
+   },
+   
    "carbone14|agence-berthelot-pole-funeraire-public":{
       "name":"le Pôle Funéraire Public de la Métropole de Lyon"
    },
