@@ -331,6 +331,9 @@
    "lomaco|pompes-funebres-talazac":{
       "name":"les Pompes Funèbres Talazac"
    },
+   "lomaco|pf-tisne-gabarret":{
+      "name":"les Pompes Funèbres Tisné"
+   },
    "lomaco|sa-pierrard-avs-pompes-funebres":{
       "name":"les Pompes Funèbres Pierrard AVS"
    },
@@ -357,6 +360,10 @@
    },
    "lomaco|sarl-pompes-funebres-bordenave-pb":{
       "name":"les Pompes Funèbres Bordevane"
+   },
+   
+   "lomaco|sas-pfmo-roc-eclerc":{
+      "name":"les Pompes Funèbres et Marbrerie de l'Oise Roc-Eclerc"
    },
    "lomaco|sas-pompes-funebres-signoret-pradet":{
       "name":"les Pompes Funèbres Signoret"
