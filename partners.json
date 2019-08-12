@@ -20,7 +20,7 @@
     "tags":"insurance"
   },
   "ahorn":{
-    "config":{ "zone":"de", "customEmail":true },
+    "config":{ "zone":"de", "customEmail":true, "promo":true },
     "phone":"711 67321471",
     "tags":"funeral"
   },
