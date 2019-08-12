@@ -49,280 +49,289 @@
    },
    
    "lomaco|01-handy-mondeilh-phs-funeraire":{
-      "name":"Pompes Funebres Handy / Mondeilh"
+      "name":"les Pompes Funèbres Handy / Mondeilh"
    },
    "lomaco|02-handy-mondeilh-phs-funeraire":{
-      "name":"Pompes Funebres Handy / Mondeilh"
+      "name":"les Pompes Funèbres Handy / Mondeilh"
    },
    "lomaco|acf-sud":{
-      "name":"Acf Sud"
+      "name":"les Pompes Funèbres ACF Sud"
    },
    "lomaco|agence-de-tarascon":{
-      "name":"Agence De Tarascon"
+      "name":"l'agence de Tarascon"
    },
    "lomaco|agence-le-plessis-trevise":{
-      "name":"Pompes Funebres Cardoso"
+      "name":"les Pompes Funèbres Cardoso"
    },
    "lomaco|airaines-funeraires":{
-      "name":"Airaines Funeraires"
+      "name":"les Pompes Funèbres Airainoises"
    },
    "lomaco|armonie-pompes-funebres":{
-      "name":"Armonie Pompes Funebres"
+      "name":"Armonie Pompes Funèbres"
    },
    "lomaco|assistance-funeraire-guimard":{
-      "name":"Assistance Funeraire Guimard"
+      "name":"l'assistance funéraire Guimard"
    },
    "lomaco|audun-funeraire":{
-      "name":"Audun Funeraire"
+      "name":"Audun Funéraire"
    },
    "lomaco|bretagne-funeraire":{
-      "name":"Pompes Funebres Menez - Bretagne Funeraire"
+      "name":"les Pompes Funèbres Menez - Bretagne Funéraire"
    },
    "lomaco|chambon-pompes-funebres":{
-      "name":"Chambon Pompes Funebres"
+      "name":"Chambon Pompes Funèbres"
    },
    "lomaco|chambre-funeraire":{
-      "name":"Chambre Funeraire"
+      "name":"Chambre Funèraire"
    },
    "lomaco|clement-perrot":{
-      "name":"Clement Perrot"
+      "name":"les Pompes Funèbres Clement Perrot"
    },
    "lomaco|depot-principal":{
-      "name":"Depot Principal"
+      "name":"les Pompes Funèbres Dépôt Principal"
    },
    "lomaco|didier-cormont":{
-      "name":"Pompes Funebres Didier Cormont"
+      "name":"les Pompes Funèbres Didier Cormont"
    },
    "lomaco|ets-rocher-orleans-la-source":{
-      "name":"Caritas Obseques"
+      "name":"Caritas Obsèques"
    },
    "lomaco|ets-siutat-sas":{
-      "name":"Pompes Funebres Marbrerie Siutat"
+      "name":"les Pompes Funèbres Marbrerie Siutat"
    },
+    "lomaco|farre-desvals":{
+      "name":"les Pompes Funèbres Farré-Desvals"
+   },
+   
    "lomaco|fune-guyane":{
-      "name":"PF Internationale Fune Guyane"
+      "name":"les Pompes Funèbres Internationales Fune Guyane"
    },
    "lomaco|hommage-funeraire":{
-      "name":"Hommage Funeraire"
+      "name":"Hommage Funéraire"
    },
    "lomaco|l-autre-rive":{
-      "name":"Pompes Funebres L'autre Rive"
+      "name":"les Pompes Funèbres l'Autre Rive"
    },
    "lomaco|les-vans":{
-      "name":"Ambulances Laganier"
+      "name":"les Ambulances Laganier"
+      
    },
    "lomaco|marbrerie-pompes-funebres-briquet":{
-      "name":"Marbrerie Pompes Funebres Briquet"
+      "name":"les Pompes Funèbres Briquet"
    },
    "lomaco|marbrerie-pompes-funebres-de-l-hermitage":{
-      "name":"Pompes Funebres De L'hermitage"
+      "name":"les Pompes Funèbres De l'Hermitage"
    },
    "lomaco|monnaie":{
-      "name":"Pompes Funèbres Aux Iris"
+      "name":"les Pompes Funèbres aux Iris"
    },
    "lomaco|orient-funeraire-al-wassia":{
-      "name":"Orient Funeraire Al Wassia"
+      "name":"Orient Funéraire Al Wassia"
    },
    "lomaco|pf-les-artisans-du-passage":{
-      "name":"PF Les Artisans Du Passage"
+      "name":"les Artisans du Passage"
    },
    "lomaco|pf-adam-caen":{
-      "name":"Pompes Funebres Adam"
+      "name":"les Pompes Funèbres Adam"
    },
    "lomaco|pf-adam-douvres":{
-      "name":"Pompes Funebres Adam"
+      "name":"les Pompes Funèbres Adam"
    },
    "lomaco|pf-adam-le-teilleul":{
-      "name":"Pompes Funebres Adam"
+      "name":"les Pompes Funèbres Adam"
    },
    "lomaco|pf-marbrerie-du-pays-de-plouay":{
-      "name":"PF Marbrerie Du Pays De Plouay"
+      "name":"les Pompes Funèbres du Pays de Plouay"
    },
    "lomaco|petitniot-freres":{
-      "name":"Petitniot Freres"
+      "name":"les Pompes Funèbres Petitniot Freres"
    },
    "lomaco|pf-cousin-agence-de-levroux":{
-      "name":"Sarl Nicolas Cousin"
+      "name":"les Pompes Funèbres Nicolas Cousin"
    },
    "lomaco|pf-cousin-agence-de-vatan":{
-      "name":"Sarl Nicolas Cousin"
+      "name":"les Pompes Funèbres Nicolas Cousin"
    },
    "lomaco|pf-girbas":{
-      "name":"Pompes Funebres Girbas"
+      "name":"les Pompes Funèbres Girbas"
    },
    "lomaco|pf-intercommunales-pofu":{
-      "name":"PF Intercommunales Pofu"
+      "name":"les Pompes Funèbres Intercommunales Pofu"
    },
    "lomaco|pf-intercommunales-saint-brieuc":{
-      "name":"PFI De La Region De Saint Brieuc"
+      "name":"les Pompes Funèbres Intercommunales de la région de Saint-Brieuc"
    },
    "lomaco|pf-jeanmougin":{
-      "name":"PF Jeanmougin"
+      "name":"les Pompes Funèbres Jeanmougin"
    },
+    "lomaco|pf-jean-bernard-lordel":{
+      "name":"les Pompes Funèbres Lordel"
+   },
+   
    "lomaco|pf-lamarque":{
-      "name":"Pompes Funebres Lamarque"
+      "name":"les Pompes Funèbres Lamarque"
    },
    "lomaco|pf-uzerchoises":{
-      "name":"Pompes Funebres Uzerchoises"
+      "name":"les Pompes Funèbres Uzerchoises"
    },
    "lomaco|pfi-du-boulonnais":{
-      "name":"PFI Du Boulonnais"
+      "name":"les Pompes Funèbres Intercommunales Du Boulonnais"
    },
    "lomaco|pfpa":{
-      "name":"Pompes Funèbres De La Porte D'alsace"
+      "name":"les Pompes Funèbres de la Porte d'Alsace"
    },
    "lomaco|pompes-funebres-marbrerie-brun":{
-      "name":"Pompes Funebres & Marbrerie Brun"
+      "name":"les Pompes Funèbres & Marbrerie Brun"
    },
    "lomaco|pompes-funebres-ambulances-sarl-barre":{
-      "name":"Pompes Funebres Barre"
+      "name":"les Pompes Funèbres Barré"
    },
    "lomaco|pompes-funebres-autem":{
-      "name":"Pompes Funebres Autem"
+      "name":"les Pompes Funèbres Autem"
    },
    "lomaco|pompes-funebres-azam-gerard":{
-      "name":"Pompes Funebres Azam Gerard"
+      "name":"les Pompes Funèbres Azam"
    },
    "lomaco|pompes-funebres-brisson":{
-      "name":"Pompes Funebres Brisson"
+      "name":"les Pompes Funèbres Brisson"
    },
    "lomaco|pompes-funebres-clary":{
-      "name":"Pompes Funebres Clary"
+      "name":"les Pompes Funèbres Clary"
    },
    "lomaco|pompes-funebres-de-colombes-sttaf92":{
-      "name":"Pompes Funebres De Colombes Staff92"
+      "name":"les Pompes Funèbres de Colombes Staff 92"
    },
    "lomaco|pompes-funebres-des-alpes-grenoble":{
-      "name":"Pompes Funebres Des Alpes"
+      "name":"les Pompes Funèbres des Alpes"
    },
    "lomaco|pompes-funebres-des-alpes-la-tronche":{
-      "name":"Pompes Funebres Des Alpes"
+      "name":"les Pompes Funèbres des Alpes"
    },
    "lomaco|pompes-funebres-des-landes":{
-      "name":"Pompes Funebres Des Landes"
+      "name":"les Pompes Funèbres des Landes"
    },
    "lomaco|pompes-funebres-dezauzier":{
-      "name":"Pompes Funebres Dezauzier"
+      "name":"les Pompes Funèbres Dezauzier"
    },
    "lomaco|pompes-funebres-didier":{
-      "name":"Pompes Funebres Didier Entre Deux Mers"
+      "name":"les Pompes Funèbres Didier entre Deux Mers"
    },
    "lomaco|pompes-funebres-dupe-freres":{
-      "name":"Pompes Funebres Dupe Et Freres"
+      "name":"les Pompes Funèbres Dupé et Frères"
    },
    "lomaco|pompes-funebres-fabre-marc":{
-      "name":"Pompes Funebres Fabre Marc"
+      "name":"les Pompes Funèbres Fabre Marc"
    },
    "lomaco|pompes-funebres-gilet":{
-      "name":"Pompes Funebres Gilet"
+      "name":"les Pompes Funèbres Gilet"
    },
    "lomaco|pompes-funebres-lauragaises":{
-      "name":"Pompes Funebres Lauragaises"
+      "name":"les Pompes Funèbres Lauragaises"
    },
    "lomaco|pompes-funebres-lozeriennes":{
-      "name":"Pompes Funebres Lozeriennes"
+      "name":"les Pompes Funèbres Lozeriennes"
    },
    "lomaco|pompes-funebres-malbec":{
-      "name":"Pompes Funebres Malbec"
+      "name":"les Pompes Funèbres Malbec"
    },
    "lomaco|pompes-funebres-marbrerie-adam":{
-      "name":"Pompes Funebres Adam"
+      "name":"les Pompes Funèbres Adam"
    },
    "lomaco|pompes-funebres-moussy":{
-      "name":"Pompes Funebres Moussy"
+      "name":"les Pompes Funèbres Moussy"
    },
    "lomaco|pompes-funebres-ouistreham":{
-      "name":"Pompes Funebres Delamare"
+      "name":"les Pompes Funèbres Delamare"
    },
    "lomaco|pompes-funebres-pierregui-quimperle-mellac":{
-      "name":"Pompes Funebres Pierregui"
+      "name":"les Pompes Funèbres Pierregui"
    },
    "lomaco|pompes-funebres-plourin":{
-      "name":"Pompes Funebres Plourin"
+      "name":"les Pompes Funèbres Plourin"
    },
    "lomaco|pompes-funebres-pouyade":{
-      "name":"Angouleme Funeraire - Pompes Funebres Pouyade"
+      "name":"Angouleme Funéraire - Pompes Funebres Pouyade"
    },
    "lomaco|pompes-funebres-rivesaltaises":{
-      "name":"Pompes Funebres Rivesaltaises"
+      "name":"les Pompes Funèbres Rivesaltaises"
    },
    "lomaco|pompes-funebres-robin":{
-      "name":"Pompes Funebres Robin"
+      "name":"les Pompes Funèbres Robin"
    },
    "lomaco|pompes-funebres-romao":{
-      "name":"Pompes Funebres Romao"
+      "name":"les Pompes Funèbres Romao"
    },
    "lomaco|pompes-funebres-sannac-varilhes":{
-      "name":"Pompes Funebres Sannac"
+      "name":"les Pompes Funèbres Sannac"
    },
    "lomaco|pompes-funebres-sannac":{
-      "name":"Pompes Funebres Sannac"
+      "name":"les Pompes Funèbres Sannac"
    },
    "lomaco|pompes-funebres-terrasson":{
-      "name":"Pompes Funèbres Terrasson"
+      "name":"les Pompes Funèbres Terrasson"
    },
    "lomaco|pompes-funebres-treportaises":{
-      "name":"Les Pompes Funebres Treportaises"
+      "name":"les Pompes Funebres Tréportaises"
    },
    "lomaco|pompes-funebres-vigne":{
-      "name":"Pompes Funebres Vigne"
+      "name":"les Pompes Funèbres Vigne"
    },
    "lomaco|pompes-funebres-marbrerie-brodaz":{
-      "name":"Pompes Funèbres - Marbrerie Brodaz"
+      "name":"les Pompes Funèbres - Marbrerie Brodaz"
    },
    "lomaco|pompes-funebres-du-lous":{
-      "name":"Pompes Funèbres Du Lous"
+      "name":"les Pompes Funèbres Du Lous"
    },
    "lomaco|pompes-funebres-euskal-ehorzketak":{
-      "name":"Pompes Funebres Landaboure - Euskal Ehorzketak"
+      "name":"les Pompes Funèbres Landaboure - Euskal Ehorzketak"
    },
    "lomaco|pompes-funebres-siutat":{
-      "name":"Pompes Funebres Marbrerie Siutat"
+      "name":"les Pompes Funèbres Marbrerie Siutat"
    },
    "lomaco|pompes-funebres-talazac":{
-      "name":"Pompes Funèbres Talazac"
+      "name":"les Pompes Funèbres Talazac"
    },
    "lomaco|sa-pierrard-avs-pompes-funebres":{
-      "name":"Pierrard A.v.s. Pompes Funèbres"
+      "name":"les Pompes Funèbres Pierrard AVS"
    },
    "lomaco|sarl-elora-pompes-funebres":{
-      "name":"S.a.r.l. Elora Pompes Funebres"
+      "name":"les Pompes Funèbres Elora"
    },
    "lomaco|santi-sas-charlieu":{
-      "name":"Pompes Funebres Santi"
+      "name":"les Pompes Funèbres Santi"
    },
    "lomaco|santi-sas-cours":{
-      "name":"Pompes Funebres Santi"
+      "name":"les Pompes Funèbres Santi"
    },
    "lomaco|santi-sas-thizy":{
-      "name":"Pompes Funebres Santi"
+      "name":"les Pompes Funèbres Santi"
    },
    "lomaco|sarl-chambre-funeraire-spinelli-henri":{
-      "name":"Pompes Funebres Spinelli"
+      "name":"les Pompes Funèbres Spinelli"
    },
    "lomaco|sarl-dutreuil-pompes-funebres-privees":{
-      "name":"Sarl Dutreuil Pompes Funebres Privees"
+      "name":"les Pompes Funèbres Dutreuil"
    },
    "lomaco|sarl-g-pena":{
-      "name":"Pompes Funebres Pena"
+      "name":"les Pompes Funèbres Pena"
    },
    "lomaco|sarl-pompes-funebres-bordenave-pb":{
-      "name":"Pompes Funebres Bordevane Pb"
+      "name":"les Pompes Funèbres Bordevane"
    },
    "lomaco|sas-pompes-funebres-signoret-pradet":{
-      "name":"Pompes Funebres Signoret"
+      "name":"les Pompes Funèbres Signoret"
    },
    "lomaco|sas-pompes-funebres-signoret":{
-      "name":"Pompes Funebres Signoret"
+      "name":"les Pompes Funèbres Signoret"
    },
    "lomaco|sas-pompes-funebres-valreassiennes":{
-      "name":"Sas Pompes Funebres Valreassiennes"
+      "name":"les Pompes Funèbres Valréassiennes"
    },
    "lomaco|service-funeraire-assier":{
-      "name":"Ambulances Assier Alain"
+      "name":"les Pompes Funèbres Assier"
    },
    "lomaco|services-funeraires-du-gard":{
-      "name":"Services Funeraires Du Gard"
+      "name":"les Services Funéraires du Gard"
    },
    "lomaco|services-funeraires-martin":{
       "name":"les Pompes Funèbres Martin"
@@ -330,13 +339,13 @@
       
    },
    "lomaco|tence-pompes-funebres":{
-      "name":"Sarl Tence Ambulances"
+      "name":"les Pompes Funèbres Tence Ambulances"
    },
    "lomaco|vernou":{
-      "name":"Pompes Funèbres Aux Iris"
+      "name":"les Pompes Funèbres aux Iris"
    },
    "lomaco|ville-de-limoges":{
-      "name":"Ville De Limoges"
+      "name":"le service funéraire de la Ville De Limoges"
    },
    "scf|aix-en-provence":{
       "name":"le Service Catholique des Funérailles d'Aix-En-Provence"
@@ -362,13 +371,10 @@
    "scf|paris":{
       "name":"le Service Catholique des Funérailles de Paris"
    },
-   "lomaco|pf-jean-bernard-lordel":{
-      "name":"Pompes Funebres Lordel"
-   },
    "scf|toulon":{
-      "name":"Toulon"
+      "name":"le Service Catholique des Funérailles de Toulon"
    },
    "scf|versailles":{
-      "name":"Versailles"
+      "name":"le Service Catholique des Funérailles de Versailles"
    }
 }
