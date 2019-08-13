@@ -1,4 +1,8 @@
 {
+  "partnerTest":{
+    "config":{ "zone":"fr" },
+    "tags":"test"
+  },
   "allianz":{
     "config":{ "zone":"fr", "customEmail":true },
     "tags":"insurance"
