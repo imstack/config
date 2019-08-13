@@ -1,7 +1,11 @@
 {
-  "partnerTest":{
+  "partner-test":{
     "config":{ "zone":"fr" },
-    "tags":"test"
+    "tags":"test",
+    "features":{
+      "flower": "interflora-fr",
+      "book": "imprimeur-paris"
+    }
   },
   "allianz":{
     "config":{ "zone":"fr", "customEmail":true },
