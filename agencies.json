@@ -1,5 +1,5 @@
 {
-   "partnerTest|agence-test":{
+   "partner-test|agence-test":{
       "name":"Mon agence test d'est-sud",
       "features": { "flower": false }
    },
