@@ -1,6 +1,6 @@
 {
   "partner-test":{
-    "config":{ "zone":"fr" },
+    "config":{ "zone":"fr", "promo":true },
     "tags":"test",
     "features":{
       "flower": "interflora-fr",
