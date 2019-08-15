@@ -1,6 +1,7 @@
 {
   "partner-test":{
     "config":{ "zone":"fr", "promo":true },
+    "logo": "Frenchweb_jjtypc",
     "tags":"test",
     "features":{
       "flower": "interflora-fr",
