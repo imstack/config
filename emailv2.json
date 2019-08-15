@@ -1,9 +1,0 @@
-{
-  "blacklist":[],
-  "signup":{
-    "en":{ "template_id":"afdbbf3f-baf7-44a2-a0e6-28f55f98c484" },
-    "fr":{ "template_id":"d-0e0c8480430040139340bf2682b313aa" },
-    "de":{ "template_id":"190eedad-be0a-43eb-9a8c-2ebaa5926c5e" },
-    "es":{ "template_id":"87c0c4fd-d38d-489a-931d-59998fdf730a" }
-  }
-}
