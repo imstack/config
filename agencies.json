@@ -82,7 +82,7 @@
    "gayosso|funeraria-cap-marianas" :{
       "name":"Funeraria Capillas Marianas Monterrey",
       "features":{
-         "$flower":{"catalog":"gayosso-monterrey"}
+         "$flower":{"catalog":"gayosso-monterrey", "email":["gayosso@inmemori.com","consejerofamiliar130_monterrey@gayosso.com"]}
       }
    },
    
