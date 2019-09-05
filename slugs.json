@@ -38,5 +38,5 @@
    , "mtronchon-e59gl":       { "features": { "flower": false } }  
    , "jhequet-e42rg":       { "features": { "flower": false } }  
    , "amercadopadilla-u88dl": { "features": { "book": "imprimeur-mexico" } } 
-   , "aandreditecarletti-e14wi": { "features": { "flower": false } }  
+   , "aandreditecarletti-e14wi": { "features": { "flower": false }}  
 }
