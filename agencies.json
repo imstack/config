@@ -1,7 +1,7 @@
 {
    "partner-test|agency-test":{
       "name":"L' agence du sôleil",
-      "features": { "flower": false }
+      "features": { "flower": true }
    },
    "addf|funerarium-spruyt-sa":{
       "name":"le Funérarium Spruyt"
