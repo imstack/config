@@ -1,9 +1,159 @@
 {
-  "blacklist":[],
+  "blacklist":[
+    "christian.chevalier79@orange.fr",
+    "manuel.roger@beeline.com",
+    "sandrine.puchot@ortec.fr",
+    "julienbouic@gmail.com",
+    "m.saumade@laposte.net",
+    "paulrossignol30@gmail.com",
+    "vincent_bourganel@yahoo.fr",
+    "marionds@laposte.net",
+    "hds.s@free.fr",
+    "rh.ecureuil@hotmail.fr",
+    "sylvie.gousset@numericable.fr",
+    "ricard.anne@gmail.com",
+    "martine.gauch@gmail.com",
+    "vincent@remond.wf",
+    "a.ramirez@uniagro.fr",
+    "a.ramirez@agros.fr",
+    "cpi@bluewin.ch",
+    "eve.telling@hotmail.fr",
+    "graincourt.catherine@orange.fr",
+    "kerbellajmsyl@gmail.com",
+    "butterfly.colombe@yahoo.com",
+    "pierre.brunet1964@orange.fr",
+    "geraldine.dabremont@gmail.com"
+  ],
   "signup":{
-    "en":{ "template_id":"afdbbf3f-baf7-44a2-a0e6-28f55f98c484" },
+    "en":{ "template_id":"d-a766badbd87b42d3a0d9fd17b4c27849" },
     "fr":{ "template_id":"d-0e0c8480430040139340bf2682b313aa" },
-    "de":{ "template_id":"190eedad-be0a-43eb-9a8c-2ebaa5926c5e" },
-    "es":{ "template_id":"87c0c4fd-d38d-489a-931d-59998fdf730a" }
+    "de":{ "template_id":"d-165955c842cc4dccb219f9c320eda4f9" },
+    "es":{ "template_id":"d-a7a3214a96c0426fa9998b874bd17e58" }
+  },
+  "delete-page":{
+    "en":{ "template_id":"d-f54fe3b48e604491a3855f52ead8d4c5" },
+    "fr":{ "template_id":"d-b06fb89441574ca3acd32c928a496f1b" },
+    "de":{ "template_id":"d-657677b48d2c4366a9d13c6897bd362c" },
+    "es":{ "template_id":"d-d997a825d52e477e975a6bc2853d668f" }
+  },
+  "share-link":{
+    "en":{ "template_id":"d-af0cf23cca494637adbf1d675ce5a61e" },
+    "fr":{ "template_id":"d-40d037312b3d4bcab3d257a7febee7ed" },
+    "de":{ "template_id":"d-a82a1b97863e4034bca79a08ed728d9d" },
+    "es":{ "template_id":"d-78ee1918a68544f59e275070aefd1ed3" }
+  },
+  "share-admin":{
+    "en":{ "template_id":"d-8ddfc63525134aaea1f2644020d8d398" },
+    "fr":{ "template_id":"d-4ff832873b8e4534b6e869b4e47f1d17" },
+    "de":{ "template_id":"d-092ab5e5d8e14890867e84d0e0a6ff1e" },
+    "es":{ "template_id":"d-00ef7bb01e634d42b35f8dff47455845" }
+  },
+  "send-memory":{
+    "en":{ "template_id":"d-99e74b9e080c47de87245951c5ef0e78" },
+    "fr":{ "template_id":"d-8a9a03678e94471a8a1b50b162496ab2" },
+    "de":{ "template_id":"d-3258eef1066143edba27dc29c8e6e319" },
+    "es":{ "template_id":"d-28aacd3de9f9497ba2c39975f8f36894" }
+  },
+  "receive-memory":{
+    "en":{ "template_id":"d-7827a645163b45129fc77751f7dfa3b8", "admin":true },
+    "fr":{ "template_id":"d-06d77e3a18e944d9bc047828cb5e1597", "admin":true },
+    "de":{ "template_id":"d-2274afdacc8142ac90d222f9426b1c3f", "admin":true },
+    "es":{ "template_id":"d-de6a907d95b145acbdb5e64182c3e1be", "admin":true }
+  },
+  "client-donation":{
+    "en":{ "template_id":"d-26381e177a7948d78582da70e411e12d" },
+    "fr":{ "template_id":"d-81c0dfe76b5a425e9dc55027712102c3" },
+    "de":{ "template_id":"d-5e7536dbd7eb4a11994ef2c50749e6dd" },
+    "es":{ "template_id":"d-2935ce1a7ae645879ddf08ddd379450b" }
+  },
+  "admin-donation":{
+    "en":{ "template_id":"d-ad4e786172a44eefbcd246697ce68d3d", "admin":true },
+    "fr":{ "template_id":"d-a4d3d299dffb400f878e6f3dd41a0328", "admin":true },
+    "de":{ "template_id":"d-23e7f0e3724a4556be73df5ba0e96042", "admin":true },
+    "es":{ "template_id":"d-bc2565edcc844c5590eb71cbdcb4c771", "admin":true }
+  },
+  "close-donation":{
+    "en":{ "template_id":"d-814a12867bfa4c8088ed60bb08b918bb", "admin":true, "bcc":[ "contact@inmemori.com" ]},
+    "fr":{ "template_id":"d-50d4cc6e543e4003bdb458e04f2e149a", "admin":true, "bcc":[ "contact@inmemori.com" ]},
+    "de":{ "template_id":"d-dc9cc04f47134225bf38efc211851baa", "admin":true },
+    "es":{ "template_id":"d-149607088cad45d4991665570f790307", "admin":true }
+  },
+  "thank-message":{
+    "en":{ "template_id":"d-a457e656561d40548c675fdcf7dfa755" },
+    "fr":{ "template_id":"d-fa7596845de94cd988117df1a358b2e0" },
+    "de":{ "template_id":"d-bd259db272cf4601876238f8ee4ca0d0" },
+    "es":{ "template_id":"d-e79d86ec408348f38bfd90c117e9d0e4" }
+  },
+  "client-flower":{
+    "fr":{ "template_id":"d-53f326a6694c4f7faffe5dfd4bf7c9cc" },
+    "es":{ "template_id":"d-5afb760a364249018239d56a81d8c69a" },
+    "de":{ "template_id":"d-a057403e8575416ca458357972c0fc4e" },
+    "en":{ "template_id":"" }
+  },
+  "team-flower":{
+    "fr":{ "template_id":"d-98c2e64907f941ef86a33ada97fa383d", "bcc":[ "louis.grellet@inmemori.com","contact@inmemori.com" ] },
+    "es":{ "template_id":"fe96b7d1-d415-4d51-98bb-bb2001b79a81", "bcc":[ "contact@inmemori.com" ] },
+    "de":{ "template_id":"", "bcc":[ "contact@inmemori.com" ] },
+    "en":{ "template_id":"", "bcc":[ "contact@inmemori.com" ] }
+  },
+  "client-book":{
+    "fr":{ "template_id":"d-37259e5a585c4a75ab8b86c6ae30203f" },
+    "de":{ "template_id":"" },
+    "en":{ "template_id":"" },
+    "es":{ "template_id":"" }
+  },
+  "team-book":{
+    "fr":{ "template_id":"d-e8ce2b9e10674a9db0816ecf3bbff01e", "bcc":[ "louis.grellet@inmemori.com","contact@inmemori.com" ]  }
+  },
+  "partner-flower-gayosso":{
+    "es":{ "template_id":"fe96b7d1-d415-4d51-98bb-bb2001b79a81" }
+  },
+  "signup-funeral-agencies":{
+    "fr":{ "template_id":"",
+      "from":{
+        "name":"Service Catholique des Funérailles"
+      }
+    }
+  },
+  "signup-insurances":{
+    "fr":{ "template_id":"" }
+  },
+  "signup-software":{
+    "fr":{ "template_id":"" }
+  },
+  "cron-001":{
+    "fr":{ "template_id":"d-8e4eefe3f088412f91a470fcc2dad822" },
+    "es":{ "template_id":"" },
+    "en":{ "template_id":"" },
+    "de":{ "template_id":"" }
+  },
+  "cron-002":{
+    "fr":{ "template_id":"d-0fd8656a0e4f49caa6f6815e22882af2" },
+    "es":{ "template_id":"" },
+    "en":{ "template_id":"" },
+    "de":{ "template_id":"" }
+  },
+  "cron-003":{
+    "fr":{ "template_id":"d-72de054dcb9d4737873d15693777e034" },
+    "es":{ "template_id":"" },
+    "en":{ "template_id":"" },
+    "de":{ "template_id":"" }
+  },
+  "cron-008":{
+    "fr":{ "template_id":"d-5f14e763bc9b457ca1b7617a6fdba80a" },
+    "es":{ "template_id":"" },
+    "en":{ "template_id":"" },
+    "de":{ "template_id":"" }
+  },
+  "cron-009":{
+    "en":{ "template_id":"d-42b384fbc39a4952a9f0219c49b71a54" },
+    "es":{ "template_id":" d-f10ae7562a2949a486375a7b8c0df79f" },
+    "de":{ "template_id":"" }
+  },
+  "cron-011":{
+    "en":{ "template_id":"d-cc13d0cf9f4e4b1397ba820b361e85c1" }
+  },
+  "cron-016":{
+    "en":{ "template_id":"d-6a930c3858c545369a9a1f6f2ae7d4f4" }
   }
 }
