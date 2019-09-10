@@ -17,6 +17,7 @@
     "tags":"funeral"
   },
   "auxia":{
+    "name": "Malakoff Médéric",
     "config":{ "zone":"fr", "customEmail":true },
     "tags":"insurance"
   },
@@ -119,6 +120,7 @@
     "tags":"funeral"
   },
   "previseo":{
+    "name": "Previseo, filiale du Crédit Agricole",
     "config":{ "zone":"fr", "customEmail":true },
     "tags":"insurance"
   },
