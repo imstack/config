@@ -23,12 +23,30 @@
     "butterfly.colombe@yahoo.com",
     "pierre.brunet1964@orange.fr",
     "geraldine.dabremont@gmail.com"
-  ],
+  ],  
   "signup":{
     "en":{ "template_id":"d-a766badbd87b42d3a0d9fd17b4c27849" },
     "fr":{ "template_id":"d-0e0c8480430040139340bf2682b313aa" },
     "de":{ "template_id":"d-165955c842cc4dccb219f9c320eda4f9" },
     "es":{ "template_id":"d-a7a3214a96c0426fa9998b874bd17e58" }
+  },
+  "signup-aviva":{
+    "fr":{ "template_id":"d-0a93791b645442dd86cbdcefc4bc10b7" }
+  },
+  "signup-allianz":{
+    "fr":{ "template_id":"d-7b1ade960bcb44d893f73c58807a93dc" }
+  },
+  "signup-prevoir":{
+    "fr":{ "template_id":"d-c04ed438dabc4695adb6d71615b2c45c" }
+  },
+  "signup-gan":{
+    "fr":{ "template_id":"d-1dcb845147184275ac921caec8d16260" }
+  },
+  "signup-previseo":{
+    "fr":{ "template_id":"d-7e7c5f5f9edb4f3488a7c06cfa13bd76" }
+  },
+  "signup-auxia":{
+    "fr":{ "template_id":"d-f288d7e7bea8457cbf0c0ebb9174d980" }
   },
   "delete-page":{
     "en":{ "template_id":"d-f54fe3b48e604491a3855f52ead8d4c5" },
@@ -88,27 +106,29 @@
     "fr":{ "template_id":"d-53f326a6694c4f7faffe5dfd4bf7c9cc" },
     "es":{ "template_id":"d-5afb760a364249018239d56a81d8c69a" },
     "de":{ "template_id":"d-a057403e8575416ca458357972c0fc4e" },
-    "en":{ "template_id":"" }
+    "en":{ "template_id":"d-221f3ef1b8104c58998ad94e0b646162" }
   },
   "team-flower":{
     "fr":{ "template_id":"d-98c2e64907f941ef86a33ada97fa383d", "bcc":[ "louis.grellet@inmemori.com","contact@inmemori.com" ] },
-    "es":{ "template_id":"fe96b7d1-d415-4d51-98bb-bb2001b79a81", "bcc":[ "contact@inmemori.com" ] },
+    "es":{ "template_id":"", "bcc":[ "contact@inmemori.com" ] },
     "de":{ "template_id":"", "bcc":[ "contact@inmemori.com" ] },
     "en":{ "template_id":"", "bcc":[ "contact@inmemori.com" ] }
   },
   "client-book":{
     "fr":{ "template_id":"d-37259e5a585c4a75ab8b86c6ae30203f" },
     "de":{ "template_id":"" },
-    "en":{ "template_id":"" },
-    "es":{ "template_id":"" }
+    "en":{ "template_id":"d-531dd4dc6f24459389e7a83e523aa922" },
+    "es":{ "template_id":"d-3bfe8b91480a42f6931f9caf4ccde271" }
   },
   "team-book":{
     "fr":{ "template_id":"d-e8ce2b9e10674a9db0816ecf3bbff01e", "bcc":[ "louis.grellet@inmemori.com","contact@inmemori.com" ]  }
   },
-  "partner-flower-gayosso":{
-    "es":{ "template_id":"fe96b7d1-d415-4d51-98bb-bb2001b79a81" }
+ "partner-flower-gayosso":{
+    "es":{ "template_id":"d-4f2bfb8b303349afa23f69cb5bc6135f" }
   },
-  "cron-001":{
+  
+
+"cron-001":{
     "fr":{ "template_id":"d-8e4eefe3f088412f91a470fcc2dad822" },
     "es":{ "template_id":"" },
     "en":{ "template_id":"" },
