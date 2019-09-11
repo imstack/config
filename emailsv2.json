@@ -108,19 +108,6 @@
   "partner-flower-gayosso":{
     "es":{ "template_id":"fe96b7d1-d415-4d51-98bb-bb2001b79a81" }
   },
-  "signup-funeral-agencies":{
-    "fr":{ "template_id":"",
-      "from":{
-        "name":"Service Catholique des Funérailles"
-      }
-    }
-  },
-  "signup-insurances":{
-    "fr":{ "template_id":"" }
-  },
-  "signup-software":{
-    "fr":{ "template_id":"" }
-  },
   "cron-001":{
     "fr":{ "template_id":"d-8e4eefe3f088412f91a470fcc2dad822" },
     "es":{ "template_id":"" },
