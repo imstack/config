@@ -38,6 +38,7 @@
   },
   "gayosso":{
     "config":{ "zone":"mx", "promo":true, "customEmail":true },
+    "logo": "Gayosso-MX",
     "tags":"funeral",
     "features":{
       "flower":{
