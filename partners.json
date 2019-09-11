@@ -31,13 +31,13 @@
     "tags":"insurance"
   },
   "ahorn":{
-    "config":{ "zone":"de", "customEmail":true, "promo":true },
+    "config":{ "zone":"de", "promo":true },
     "logo": "Bestattungen_Rolf",
     "phone":"711 67321471",
     "tags":"funeral"
   },
   "gayosso":{
-    "config":{ "zone":"mx", "promo":true, "customEmail":true },
+    "config":{ "zone":"mx", "promo":true },
     "logo": "Gayosso-MX",
     "tags":"funeral",
     "features":{
@@ -96,11 +96,11 @@
     }
   },
   "lefigaro":{
-    "config":{ "zone":"fr", "customEmail":true },
+    "config":{ "zone":"fr" },
     "tags":"media"
   },
   "manchester-funeral-home":{
-    "config":{ "zone":"us", "customEmail":true },
+    "config":{ "zone":"us" },
     "phone":"(860) 643-6226",
     "tags":"funeral"
   },
@@ -118,7 +118,7 @@
     "tags":"funeral"
   },
   "potter-funeral-home":{
-    "config":{ "zone":"us", "customEmail":true },
+    "config":{ "zone":"us" },
     "phone":"(860) 423-2211",
     "tags":"funeral"
   },
@@ -128,15 +128,15 @@
     "tags":"insurance"
   },
   "carbone14":{
-    "config":{ "zone":"fr", "customEmail":true, "promo": true },
+    "config":{ "zone":"fr", "promo": true },
     "tags":"ERP"
   },
   "addf":{
-    "config":{ "zone":"be", "customEmail":true, "promo": true },
+    "config":{ "zone":"be", "promo": true },
     "tags":"ERP"
   },
   "lomaco":{
-    "config":{ "zone":"fr", "customEmail":true, "promo":true },
+    "config":{ "zone":"fr", "promo":true },
     "tags":"ERP",
     "features":{
       "flower":false
@@ -147,7 +147,7 @@
     "tags":"insurance"
   },
   "scf":{
-    "config":{ "zone":"fr", "customEmail":true, "promo": true },
+    "config":{ "zone":"fr", "promo": true },
     "logo": "Service_Catholique_des_Funérailles",
     "tags":"funeral",
     "features":{
@@ -155,12 +155,12 @@
     }
   },
   "pfvaillant":{
-    "config":{ "zone":"fr", "customEmail":true, "promo":true },
+    "config":{ "zone":"fr", "promo":true },
     "phone":"03 59 61 56 15",
     "tags":"funeral"
   },
   "yamasoft":{
-    "config":{ "zone":"fr", "customEmail":true, "promo":true },
+    "config":{ "zone":"fr", "promo":true },
     "tags":"ERP"
   },
   "colisee":{
