@@ -148,6 +148,7 @@
   },
   "scf":{
     "config":{ "zone":"fr", "customEmail":true, "promo": true },
+    "logo": "Service_Catholique_des_Funérailles",
     "tags":"funeral",
     "features":{
       "flower":false
