@@ -32,6 +32,7 @@
   },
   "ahorn":{
     "config":{ "zone":"de", "customEmail":true, "promo":true },
+    "logo": "Bestattungen_Rolf",
     "phone":"711 67321471",
     "tags":"funeral"
   },
