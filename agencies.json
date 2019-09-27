@@ -281,6 +281,14 @@
    "lomaco|pompes-funebres-gilet":{
       "name":"les Pompes Funèbres Gilet"
    },
+   
+   "lomaco|pompes-funebres-laot":{
+      "name":"les Pompes Funèbres Laot",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
+   },
+   
    "lomaco|pompes-funebres-lauragaises":{
       "name":"les Pompes Funèbres Lauragaises"
    },
