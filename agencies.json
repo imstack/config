@@ -1,7 +1,13 @@
 {
    "partner-test|agency-test":{
       "name":"L' agence du sôleil",
-      "features": {}
+      "features": {
+         "$flower":{
+               "hours": ["h-48"]
+             , "zipcodes": ["92", "93"]
+             , "shipping": { "price": 5 }
+           }
+      }
    },
    "addf|funerarium-spruyt-sa":{
       "name":"le Funérarium Spruyt"
