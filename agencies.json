@@ -3,8 +3,8 @@
       "name":"L' agence du sôleil",
       "features": {
          "$flower":{
-               "hours": ["h-48"]
-             , "zipcodes": ["92", "93"]
+               "rules": ["<13:00|-1d@15:00", ">13:00|-2h"]
+             , "zipcodes": ["92", "95", "78"]
              , "shipping": { "price": 5 }
            }
       }
