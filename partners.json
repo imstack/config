@@ -96,7 +96,7 @@
     }
   },
   "lefigaro":{
-    "config":{ "zone":"fr" },
+    "config":{ "zone":"fr", "customEmail":true },
     "tags":"media"
   },
   "manchester-funeral-home":{
