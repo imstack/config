@@ -48,6 +48,9 @@
   "signup-auxia":{
     "fr":{ "template_id":"d-f288d7e7bea8457cbf0c0ebb9174d980" }
   },
+  "signup-test":{
+    "fr":{ "template_id":"d-6db569504e7249cbbfcd3077e8eb5672" }
+  },
   "delete-page":{
     "en":{ "template_id":"d-f54fe3b48e604491a3855f52ead8d4c5" },
     "fr":{ "template_id":"d-b06fb89441574ca3acd32c928a496f1b" },
