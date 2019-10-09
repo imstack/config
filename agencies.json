@@ -340,7 +340,10 @@
    "lomaco|pompes-funebres-sannac":{
       "name":"les Pompes Funèbres Sannac"
    },
-   "lomaco|pompes-funebres-terrasson":{
+      "lomaco|pompes-funebres-sud-territoire":{
+      "name":"les Pompes Funèbres Sud Territoire"
+   },
+      "lomaco|pompes-funebres-terrasson":{
       "name":"les Pompes Funèbres Terrasson",
       "features":{
          "$flower":{"catalog":"interflora-fr"}
