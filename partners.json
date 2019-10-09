@@ -1,7 +1,7 @@
 {
   "partner-test":{
     "name": "My Test Partner",
-    "config":{ "zone":"fr", "promo":true },
+    "config":{ "zone":"fr", "promo":true, "customEmail":true },
     "logo": "Frenchweb_jjtypc",
     "tags":"test",
     "features":{
