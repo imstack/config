@@ -44,7 +44,7 @@
       "flower":{
         "catalog":"gayosso",
         "caid":"acct_1DJiYCAqHkZ6SvCW",
-        "rules": ["<24:00|+21h"],
+        "rules": ["<23:59|+21h"],
         "hours":21,
         "cut":20,
         "email":["gayosso@inmemori.com","floreria_mex@gayosso.com","floreria2_mex@gayosso.com"]
@@ -90,7 +90,7 @@
     "features":{
       "flower":{
         "catalog":"interflora-fr",
-        "rules": ["<24:00|-2h"],
+        "rules": ["<23:59|-2h"],
         "hours":-2,
         "caid":"acct_1DJiYIGMg492Tv0T",
         "email":["interflora@inmemori.com"]
