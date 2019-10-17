@@ -38,7 +38,7 @@
    , "mtronchon-e59gl":       { "features": { "flower": false } }  
    , "jhequet-e42rg":       { "features": { "flower": false } }  
    , "amercadopadilla-u88dl": { "features": { "book": "imprimeur-mexico" } } 
-   , "jpaladi" : { "features" :{ "flower": "interflora-fr" } }  
+   , "jpaladi" : { "features" :{ "flower": "flowers-us" } }  
    , "aandreditecarletti-e14wi": { "features": { "flower": false }}
    , "mdupreille-e94cq": { "features": { "gcard": "imprimeur-paris" }}  
    , "jcoucardon-e59rj": { "features": { "flower": false } }  
