@@ -338,7 +338,10 @@
       "name":"les Pompes Funèbres Robin"
    },
    "lomaco|pompes-funebres-romao":{
-      "name":"les Pompes Funèbres Romao"
+      "name":"les Pompes Funèbres Romao",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
    "lomaco|pompes-funebres-sannac-varilhes":{
       "name":"les Pompes Funèbres Sannac"
