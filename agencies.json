@@ -261,7 +261,10 @@
       "name":"les Pompes Funèbres & Marbrerie Brun"
    },
    "lomaco|pompes-funebres-ambulances-sarl-barre":{
-      "name":"les Pompes Funèbres Barré"
+      "name":"les Pompes Funèbres Barré",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
    "lomaco|pompes-funebres-autem":{
       "name":"les Pompes Funèbres Autem"
