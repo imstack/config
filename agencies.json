@@ -224,7 +224,10 @@
       "name":"les Pompes Funèbres Intercommunales de la région de Saint-Brieuc"
    },
    "lomaco|pf-jeanmougin":{
-      "name":"les Pompes Funèbres Jeanmougin"
+      "name":"les Pompes Funèbres Jeanmougin",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
     "lomaco|pf-jean-bernard-lordel":{
       "name":"les Pompes Funèbres Lordel"
