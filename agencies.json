@@ -240,7 +240,10 @@
       "name":"les Pompes Funèbres Uzerchoises"
    },
    "lomaco|pfi-du-boulonnais":{
-      "name":"les Pompes Funèbres Intercommunales Du Boulonnais"
+      "name":"les Pompes Funèbres Intercommunales Du Boulonnais",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
    "lomaco|pfm-saint-andre":{
       "name":"les Pompes Funèbres M"
