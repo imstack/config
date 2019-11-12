@@ -185,7 +185,10 @@
       "name":"les Pompes Funèbres de l'Hermitage"
    },
    "lomaco|monnaie":{
-      "name":"les Pompes Funèbres aux Iris"
+      "name":"les Pompes Funèbres aux Iris",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
    "lomaco|orient-funeraire-al-wassia":{
       "name":"Orient Funéraire Al Wassia"
@@ -446,7 +449,10 @@
       "name":"les Pompes Funèbres Tence Ambulances"
    },
    "lomaco|vernou":{
-      "name":"les Pompes Funèbres aux Iris"
+      "name":"les Pompes Funèbres aux Iris",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
    "lomaco|ville-de-limoges":{
       "name":"le service funéraire municipal de la Ville de Limoges, 05 55 33 29 24"
