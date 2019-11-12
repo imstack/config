@@ -150,7 +150,10 @@
       "name":"Caritas Obsèques"
    },
    "lomaco|ets-siutat-sas":{
-      "name":"les Pompes Funèbres Marbrerie Siutat"
+      "name":"les Pompes Funèbres Marbrerie Siutat",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
     "lomaco|farre-desvals":{
       "name":"les Pompes Funèbres Farré-Desvals"
@@ -365,7 +368,10 @@
       "name":"les Pompes Funèbres Landaboure - Euskal Ehorzketak"
    },
    "lomaco|pompes-funebres-siutat":{
-      "name":"les Pompes Funèbres Marbrerie Siutat"
+      "name":"les Pompes Funèbres Marbrerie Siutat",
+      "features":{
+         "$flower":{"catalog":"interflora-fr"}
+      }
    },
    "lomaco|pompes-funebres-talazac":{
       "name":"les Pompes Funèbres Talazac"
