@@ -1,5 +1,6 @@
 {
      "xxx":                   { "features": { "flower": false, "book": false }, "dummyPlace": false }
+   , "cdelphin-e97wk":        { "features": { "flower": false } }
    , "aevain-e63rz":          { "dummyPlace": false }
    , "acastillocruz-e63zl":   { "features": { "flower": false, "book": false } }
    , "afrancis-e23zc":        { "features": { "flower": false } }
