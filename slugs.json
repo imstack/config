@@ -69,5 +69,6 @@
    , "smorel-e45ox": { "features": { "flower": false } }      
    , "gcostanza-e83if": { "features": { "flower": false } }   
    , "gmazeauangerand-e33gs": { "features": { "flower": false } }
-   , "cbouly-e97db": { "features": { "flower": false } }     
+   , "cbouly-e97db": { "features": { "flower": false } } 
+   , "mescoffier-e40bf" : { "features" :{ "flower": "interflora-fr" } }       
 }
