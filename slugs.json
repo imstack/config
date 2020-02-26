@@ -73,5 +73,6 @@
    , "jblanc-e71uj": { "features": { "flower": false } } 
    , "mescoffier-e40bf" : { "features" :{ "flower": "interflora-fr" } }       
    , "srivoire-e14wr": { "features": { "flower": false } }      
-   , "mrusso-e61fl": { "features": { "flower": false } }           
+   , "mrusso-e61fl": { "features": { "flower": false } }        
+   , "phein-e41dv": { "features": { "flower": false, "book": false  } }      
 }
