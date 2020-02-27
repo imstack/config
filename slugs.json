@@ -75,4 +75,5 @@
    , "srivoire-e14wr": { "features": { "flower": false } }      
    , "mrusso-e61fl": { "features": { "flower": false } }        
    , "phein-e41dv": { "features": { "flower": false, "book": false  } }      
+   , "ajasse-e97od": { "features": { "flower": false, "book": false  } }           
 }
