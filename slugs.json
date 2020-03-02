@@ -76,5 +76,6 @@
    , "mrusso-e61fl": { "features": { "flower": false } }        
    , "phein-e41dv": { "features": { "flower": false, "book": false  } }      
    , "ajasse-e97od": { "features": { "flower": false, "book": false  } }       
-   , "ovialette-e57ut": { "features": { "flower": false } }        
+   , "ovialette-e57ut": { "features": { "flower": false } }      
+   , "abellet-e38fr": { "features": { "flower": false } }           
 }
